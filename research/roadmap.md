@@ -1,0 +1,109 @@
+# Kefir World Research Roadmap
+
+## Phase 1 — Core catalog
+
+- [x] Create initial global fermented milk catalog.
+- [x] Add practical fermentation temperature ranges.
+- [x] Add typical fermentation times.
+- [x] Classify starter ecology and propagation type.
+- [ ] Attach at least one reliable reference to every row.
+- [ ] Separate household/traditional ranges from industrial process ranges.
+
+## Phase 2 — Microbiology
+
+For each culture/product, add:
+
+- Lactic acid bacteria genera/species
+- Yeasts
+- Acetic acid bacteria
+- Molds where culturally relevant
+- EPS-producing organisms
+- Dominant vs occasional taxa
+- Culture-dependent vs sequencing evidence
+- Strain-level identifiers when reliable
+
+Special focus:
+
+- Milk kefir grain microbiome and geographic variation
+- Kefiran producers
+- Viili / Långfil ropiness and EPS
+- Caspian Sea Yogurt and Lactococcus lactis subsp. cremoris lineages
+- Matsoni / Matzoon regional microbiome variation
+- Kumis / Airag LAB–yeast ecology
+- Dadih, Mabisi, Nunu, Amasi and other spontaneous/backslopped systems
+
+## Phase 3 — Fermentation behavior
+
+Add quantitative fields where evidence exists:
+
+- Initial and terminal pH
+- Titratable acidity
+- Lactose reduction
+- Lactic acid
+- Ethanol
+- CO2
+- Viscosity
+- EPS/kefiran production
+- Grain growth rate
+- Syneresis
+- Aroma compounds
+- Fermentation kinetics at multiple temperatures
+
+## Phase 4 — Process variables
+
+Track effects of:
+
+- Whole vs low-fat milk
+- Cow, goat, sheep, buffalo, camel and mare milk
+- Pasteurized vs UHT milk
+- Protein concentration
+- Fat concentration
+- Inoculation ratio
+- Fermentation vessel
+- Oxygen exposure
+- Agitation
+- Backslopping generation number
+- Cold storage
+- Freeze-drying/dehydration
+
+## Phase 5 — Geography
+
+Create geographic records for:
+
+- Caucasus
+- Nordic countries
+- Balkans
+- Middle East
+- Central Asia
+- South Asia
+- Southeast Asia
+- East Africa
+- West Africa
+- Southern Africa
+
+Later output: interactive world map showing fermented milk traditions, temperature ranges, milk source and starter ecology.
+
+## Phase 6 — Evidence database
+
+Recommended reference table fields:
+
+`source_id, product, title, authors, year, journal_or_institution, doi_or_url, study_type, geography, milk_type, starter, fermentation_temperature, fermentation_time, microbial_method, key_findings, evidence_quality`
+
+Primary papers should be preferred for exact strain, temperature and quantitative microbiology claims. Reviews and FAO/Codex references are useful for category definitions and historical context.
+
+## Phase 7 — Visualization
+
+Build:
+
+- Fermentation temperature range chart
+- Fermentation time vs temperature chart
+- Starter ecology comparison
+- LAB / yeast / AAB matrix
+- EPS and texture comparison
+- World fermented milk map
+- Culture propagation decision tree
+- Interactive product comparison website
+
+## Long-term vision
+
+Kefir World should become a multilingual, evidence-linked atlas of fermented milks rather than a simple list of yogurt names. Each claim should eventually be traceable to a source and each traditional product should preserve its regional variability instead of being reduced to one universal recipe.
