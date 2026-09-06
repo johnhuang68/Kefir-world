@@ -1,0 +1,8 @@
+reference_id,topic,title,year,source,url,evidence_use
+MK001,milk_kefir,"Microbiological, technological and therapeutic properties of kefir: a natural probiotic beverage",2013,Brazilian Journal of Microbiology,https://pmc.ncbi.nlm.nih.gov/articles/PMC3833126/,traditional 20-25C and 18-24h; preservation observations
+MK002,milk_kefir,"Milk kefir: composition, microbial cultures, biological activities, and related products",2015,Frontiers in Microbiology,https://pmc.ncbi.nlm.nih.gov/articles/PMC4626640/,microbiota and kefiran
+MK003,milk_kefir,"A Big World in Small Grain: A Review of Natural Milk Kefir Starters",2020,Microorganisms,https://www.mdpi.com/2076-2607/8/2/192,natural grain ecology; origin-dependent microbiota
+MK004,milk_kefir,"From Milk Kefir to Water Kefir: Assessment of Fermentation Processes, Microbial Changes and Evaluation of the Produced Beverages",2022,Fermentation,https://www.mdpi.com/2311-5637/8/3/135,20C vs ambient vs 25C repeated-batch kinetics and grain growth
+MK005,milk_kefir,"Comparative Analysis of Fermentation Conditions on the Increase of Biomass and Morphology of Milk Kefir Grains",2022,Applied Sciences,https://www.mdpi.com/2076-3417/12/5/2459,temperature effects on biomass morphology and acidification
+MK006,milk_kefir,"Characterization of Kefir Produced in Household Conditions: Physicochemical and Nutritional Profile, and Storage Stability",2021,Foods,https://pmc.ncbi.nlm.nih.gov/articles/PMC8150857/,household fermentation conditions and 20-25C context
+MK007,milk_kefir,"Production of Kefir and Kefir-like Beverages: Fundamental Aspects, Advances, and Future Challenges",2026,Processes,https://www.mdpi.com/2227-9717/14/1/73,modern review of fermentation parameters and temperature ecology
