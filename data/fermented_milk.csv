@@ -1,0 +1,35 @@
+name,alternate_names,region_or_origin,temp_min_c,temp_max_c,typical_time_h,starter_ecology,main_microbes_or_features,propagation_type,notes,evidence_status
+Milk Kefir,Kefir,Caucasus,20,25,18-24,grain consortium,"LAB + yeasts + acetic acid bacteria; kefiran/EPS",grains,"Mixed microbial ecosystem; slight CO2 and trace ethanol possible",working draft
+Viili,,Finland,18,25,12-24,mesophilic starter,"Lactococcus + Leuconostoc; some traditional types include Geotrichum",backslopping,"Ropy/viscous variants exist",working draft
+Långfil,Longfil,Sweden,18,25,12-24,mesophilic starter,"Mesophilic LAB; EPS-associated texture",backslopping,"Long, viscous texture",working draft
+Filmjölk,Filmjolk,Sweden,18,25,12-24,mesophilic starter,"Lactococcus + Leuconostoc",backslopping,"Cultured sour milk",working draft
+Piimä,Piima,Finland,20,25,12-24,mesophilic starter,"Mesophilic LAB",backslopping,"Mild cultured milk",working draft
+Tätemjölk,Tettmelk,Nordic region,18,25,12-24,traditional mesophilic culture,"Traditional ropy lactic fermentation",backslopping,"Highly viscous traditional cultured milk",working draft
+Caspian Sea Yogurt,,Caucasus/Japan,20,30,8-24,mesophilic starter,"Lactococcus lactis subsp. cremoris; EPS-associated texture",backslopping,"Ropy, mild, low-acid profile",working draft
+Dadih,Dadiah,West Sumatra Indonesia,28,30,24-72,natural/traditional mixed culture,"Buffalo milk; spontaneous/traditional LAB community",backslopping,"Traditionally fermented in bamboo",working draft
+Ergo,,Ethiopia,16,25,24-72,natural mixed culture,"LAB + yeasts",backslopping,"Traditional fermented milk",working draft
+Lben,Leben,North Africa,20,30,24-72,traditional mesophilic culture,"Lactococcus/Leuconostoc and related LAB",backslopping,"Regional variation is substantial",working draft
+Nunu,Nono,West Africa,20,30,24,natural mixed culture,"Mixed lactic acid bacteria",backslopping,"Traditional fermented milk",working draft
+Mabisi,,Zambia,20,30,48,natural mixed culture,"Diverse spontaneous LAB community",backslopping,"Traditional fermented milk",working draft
+Dhanaan,,Ethiopia/Somalia,25,35,12-48,traditional mixed culture,"Camel-milk associated fermentative community",backslopping,"Camel fermented milk",working draft
+Rayeb,Raib,North Africa,20,30,18-24,traditional lactic culture,"Traditional LAB fermentation",backslopping,"Regional spontaneous/backslopped product",working draft
+Amasi,Maas,Southern Africa,20,30,24-72,traditional lactic culture,"LAB-dominant backslopped fermentation",backslopping,"Soured fermented milk",working draft
+Suusac,Susaac,East Africa,25,30,24-48,traditional mixed culture,"Camel/cow milk mixed microbial community",backslopping,"Traditional pastoral fermented milk",working draft
+Chal,Shubat,Central Asia,25,30,24-72,mixed LAB-yeast culture,"Camel milk; LAB + yeasts",backslopping,"May contain low alcohol and CO2",working draft
+Kumis,Airag,Mongolia/Central Asia,20,30,24-48,mixed LAB-yeast culture,"Mare milk; LAB + yeasts",backslopping,"Acidic, lightly alcoholic and carbonated",working draft
+Matsoni,Matzoon,Georgia/Armenia,25,40,6-24,traditional starter,"Community varies strongly by lineage and region",backslopping,"Broad temperature span; verify by source lineage",working draft
+Dahi,Curd,India,30,42,4-12,traditional or defined starter,"Community varies; traditional and industrial forms differ",backslopping,"Very broad regional category",working draft
+Mishti Doi,Mishti Dahi,India/Bangladesh,30,42,4-12,yogurt-like starter,"Lactic fermentation with sweetened milk",backslopping,"Sweet, concentrated style",working draft
+Laban,,Middle East,30,40,4-12,traditional starter,"Traditional fermented milk starter",backslopping,"Traditional form; industrial versions may incubate hotter",working draft
+Zabadi,Zabady,Egypt/Sudan,30,40,4-12,traditional starter,"Traditional yogurt-like culture",backslopping,"Traditional form; industrial versions may differ",working draft
+Skyr,,Iceland,35,43,5-12,defined cultured-milk starter,"Thermophilic/mesophilic combinations depending product",defined starter,"Usually strained; high-protein final product",working draft
+Acidophilus Milk,,Modern cultured milk,37,40,12-24,defined starter,Lactobacillus acidophilus,defined starter,"Functional cultured milk category",working draft
+Bifidus Milk,,Modern cultured milk,37,40,varies,defined starter,Bifidobacterium spp.,defined starter,"Temperature depends on strain/formulation",working draft
+AB Yogurt,,Modern cultured milk,37,42,varies,defined starter,"Acidophilus + Bifidobacterium",defined starter,"Commercial formulations differ",working draft
+ABT Yogurt,,Modern cultured milk,37,42,varies,defined starter,"Acidophilus + Bifidobacterium + Streptococcus thermophilus",defined starter,"Commercial formulations differ",working draft
+Laban industrial,,Middle East,37,45,4-8,defined yogurt-type starter,"Streptococcus thermophilus + Lactobacillus delbrueckii subsp. bulgaricus",defined starter,"Industrial thermophilic form",working draft
+Zabadi industrial,,Egypt,37,45,4-8,defined yogurt-type starter,"Yogurt-type thermophilic starter",defined starter,"Industrial form",working draft
+Traditional Yogurt,Yoghurt,Balkans/Turkey,40,45,3-8,defined yogurt starter,"Streptococcus thermophilus + Lactobacillus delbrueckii subsp. bulgaricus",defined starter,"Classical yogurt ecology",working draft
+Greek Yogurt,Strained Yogurt,Greece,40,45,3-8,defined yogurt starter,"Classical yogurt starter; strained after fermentation",defined starter,"Processing style more than a unique culture",working draft
+Bulgarian Yogurt,,Bulgaria,42,45,2.5-4,defined yogurt starter,"Lactobacillus delbrueckii subsp. bulgaricus + Streptococcus thermophilus",defined starter,"Classic thermophilic yogurt",working draft
+Labneh,,Middle East,37,45,varies,yogurt/laban base,"Usually fermented yogurt/laban then strained",defined or backslopped,"Concentrated fermented milk; not a unique starter ecology",working draft
