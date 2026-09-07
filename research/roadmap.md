@@ -1,13 +1,15 @@
 # Kefir World Research Roadmap
 
-## Profile research completed — 2026-09-06 to 2026-09-07
+## Profile research completed — 2026-09-06 to 2026-09-08
 
 - [x] Add detailed profiles for Caspian Sea Yogurt, Viili, Långfil, Filmjölk, Matsoni, Dahi and Bulgarian Yogurt.
 - [x] Attach species/strain evidence, EPS, process, storage and uncertainty notes to those profiles.
 - [x] Update the seven catalog rows with profile links, reference IDs and explicit fermentation scope.
 - [x] Expand the shared registry while preserving the original milk-kefir references.
+- [x] Strengthen Piimä, Tettmelk, Laban, Labneh, Rayeb, Tarag, Katyk and Varenets with claim-scoped primary or authoritative evidence.
+- [x] Add Khoormog, Pendidam and Kindirmou as separately sourced traditional fermented milks.
 
-All 43 catalog rows now have claim-scoped literature profiles. These are completed first-pass syntheses, not finished experimental accession records. Priority gaps include Långfil and Tettmelk duration, Filmjölk strain provenance, long-term backslopping studies, and matched storage/acidification measurements. Matsoni's later genomic reidentifications and inconsistent published isolate spellings must remain visible in future structured strain tables.
+All 46 catalog rows now have claim-scoped literature profiles. These are completed first-pass syntheses, not finished experimental accession records. Priority gaps include Långfil and Tettmelk duration, Filmjölk and Finnish Piimä strain provenance, long-term backslopping studies, and matched storage/acidification measurements. Matsoni's later genomic reidentifications and inconsistent published isolate spellings must remain visible in future structured strain tables.
 
 ## Phase 1 — Core catalog
 

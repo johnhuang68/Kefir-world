@@ -1,32 +1,45 @@
 # Katyk
 
-**Category:** Central Asian/Turkic fermented heated milk\
-**Region:** Central Asia and Turkic regions\
-**Alternate names:** Qatiq; Qatyq (regional meanings vary)\
-**Evidence status:** literature-backed regional category; name collisions explicit
+**Category:** name shared by distinct regional fermented-milk products\
+**Primary catalog scope:** Central Asian and Turkic heated/concentrated milk\
+**Alternate names:** Qatiq; Qatyq; regional meanings vary\
+**Milk:** cow, sheep, goat or buffalo depending locality\
+**Evidence status:** regional community survey plus a Bulgarian name-collision isolate study
 
-## Production and identity
+## Identity and production
 
-Katyk is commonly prepared from boiled or concentrated cow, sheep, goat or buffalo milk inoculated with a previous batch and held warm until set. It can be eaten directly, diluted into Ayran/Tan or drained into Suzma. A single universal temperature/time pair was not found in the inspected primary literature, so numeric catalog fields remain blank. [RUS001]
+In Central Asian and Turkic usage, Katyk is commonly described as boiled or concentrated milk inoculated with a previous batch and held warm until set. It may be eaten directly, diluted into Ayran/Tan or drained into Suzma. The inspected primary survey does not establish one universal process temperature or time, so the numeric catalog fields remain blank. [RUS001]
 
-“Katyk” is also used for different products, including a Bulgarian salted/curd preparation and a Kazakh precursor to concentrated products. These should not share microbes or process numbers automatically.
+The name also refers to a Bulgarian national dairy product. A 2002 study sampled two homemade cow-milk Katyk products from the Sofia region and recovered thermophilic isolates. This Bulgarian evidence must not be used to define Central Asian qatiq or its recipe. [KAT001]
 
-## Microbial ecology and strain evidence
+## Microbial ecology and published strains
 
-Thermophilic yogurt-associated LAB, including *S. thermophilus* and *L. delbrueckii* subsp. *bulgaricus*, occur in modern descriptions, while household cultures can be more complex. The Russian artisanal survey discusses Katyk-related products but does not establish a universal deposited strain. Community reads and commercial culture names are not isolate codes. [RUS001]
+Modern Central Asian descriptions often mention thermophilic yogurt-associated LAB, while household communities can be broader. The Russian artisanal survey includes Katyk-related product contexts but does not establish one deposited culture that defines the category. [RUS001]
 
-Boiling/concentration, milk composition and acid gelation produce the dense texture; no obligatory EPS organism, yeast or mold is established.
+The Bulgarian study isolated **K1** and **K2** from Katyk and identified them phenotypically as *Pediococcus acidilactici* and *Pediococcus pentosaceus*. The authors deposited them in NBIMCC as **3437** and **3545**, respectively, in freeze-dried form. Both curdled milk in the study. These are legitimate product-linked strain/accession pairs for the two Sofia samples, not universal Katyk starters. The study's 42–45 °C refers to cultivation of recovered thermophilic strains and is not a documented household fermentation temperature. [KAT001]
 
-## Propagation, storage and distinctions
+The same paper's *L. delbrueckii* subsp. *bulgaricus*, *L. helveticus* and *L. plantarum* isolates came from goat yogurt or goat cheese, not the Katyk samples; they are deliberately excluded from the Katyk composition.
 
-Backslopping is traditional; industrial defined starters change reproducibility. No maximum transfer count or fixed shelf life is supported. Katyk differs from Tarag through regional naming and milk/process conventions, and from Ayran because dilution occurs after a Katyk/yogurt base is made.
+## Sensory, acidification, EPS, propagation and storage
+
+Boiling/concentration, milk composition and acid gelation can produce a dense, tart body. No obligatory EPS organism, yeast, mold, universal terminal pH or acidification curve is established for the catalog scope.
+
+Backslopping is traditional; modern selected starters improve repeatability but may represent a different ecology. No maximum stable transfer count, drying recovery or universal shelf life is supported. Strain K1/K2 freeze-dried collection storage is not evidence that a complete household culture survives drying.
+
+Katyk differs from Tarag through regional naming and process traditions, and from Ayran because dilution follows production of the fermented base. Every research record should retain country, milk, starter and local spelling.
+
+## Evidence limits
+
+The product name collision is the main uncertainty. KAT001 provides unusually clear strain and accession evidence, but only for Bulgarian Katyk. The broader Central Asian profile still lacks a source-paired universal temperature/time and strain-resolved multi-country survey.
 
 ## Traceable references
 
 1. **RUS001 — Yu, J., et al. (2022).** Microbial Communities of Artisanal Fermented Milk Products from Russia. *Microorganisms* 10:2140. [DOI: 10.3390/microorganisms10112140](https://doi.org/10.3390/microorganisms10112140).
+2. **KAT001 — Tserovska, L., Stefanova, S., & Yordanova, T. (2002).** Identification of lactic acid bacteria isolated from Katyk, goat's milk and cheese. *Journal of Culture Collections* 3:48–52. [Institutional PDF](https://www.nbimcc.org/JCC/2002/JCC37.pdf).
 
 ---
 
-*Kefir World profile version: 1.0 — 2026-09-07*
+*Kefir World profile version: 1.1 — 2026-09-08*
 
 [RUS001]: https://doi.org/10.3390/microorganisms10112140
+[KAT001]: https://www.nbimcc.org/JCC/2002/JCC37.pdf

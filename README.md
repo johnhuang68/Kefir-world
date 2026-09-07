@@ -20,7 +20,7 @@ These are practical grouping ranges, not strict taxonomic definitions. Individua
 
 ## Included examples
 
-The catalog contains the original 34 rows plus nine source-backed additions: **Ititu, Mursik, Ayran, Doogh, Labneh Ambaris, Tarag, Ryazhenka, Varenets, and Katyk**. Industrial Laban and Zabadi retain separate data rows but share profiles with their traditional counterparts so that the process comparison remains visible in one place.
+The catalog contains the original 34 rows plus twelve source-backed additions: **Ititu, Mursik, Ayran, Doogh, Labneh Ambaris, Tarag, Ryazhenka, Varenets, Katyk, Khoormog, Pendidam, and Kindirmou**. Industrial Laban and Zabadi retain separate data rows but share profiles with their traditional counterparts so that the process comparison remains visible in one place.
 
 ## Repository structure
 
@@ -32,11 +32,11 @@ The catalog contains the original 34 rows plus nine source-backed additions: **I
 
 ## Detailed profiles
 
-All catalog rows now link to a detailed profile covering identity and history, traditional versus modern production, milk, source-paired temperature/time, sensory properties, microbial ecology, published isolate designations, EPS, acidification, propagation, storage and evidence gaps. The 41 files cover:
+All catalog rows now link to a detailed profile covering identity and history, traditional versus modern production, milk, source-paired temperature/time, sensory properties, microbial ecology, published isolate designations, EPS, acidification, propagation, storage and evidence gaps. The 44 files cover:
 
 - Nordic and European cultures: Milk Kefir, Viili, Långfil, Filmjölk, Piimä, Tettmelk, Skyr, Ryazhenka and Varenets.
-- Asian and Caucasus traditions: Caspian Sea Yogurt, Dadih, Tarag, Katyk, Chal/Shubat, Kumis/Airag, Matsoni, Dahi and Mishti Doi.
-- African traditions: Ergo, Ititu, Dhanaan, Nunu, Mabisi, Amasi, Suusac, Mursik, Lben and Rayeb.
+- Asian and Caucasus traditions: Caspian Sea Yogurt, Dadih, Tarag, Khoormog, Katyk, Chal/Shubat, Kumis/Airag, Matsoni, Dahi and Mishti Doi.
+- African traditions: Ergo, Ititu, Dhanaan, Nunu, Mabisi, Amasi, Suusac, Mursik, Kindirmou, Pendidam, Lben and Rayeb.
 - Middle Eastern products: Laban, Zabadi, Ayran, Doogh, Labneh and the distinct long-process Labneh Ambaris.
 - Defined or concentrated cultured milks: Traditional Yogurt, Greek Yogurt, Bulgarian Yogurt, Acidophilus Milk, Bifidus Milk, AB Yogurt and ABT Yogurt.
 
@@ -50,6 +50,6 @@ The reviewed catalog rows link to their profile and reference IDs. Read `ferment
 
 ## Status
 
-The catalog contains **43 products in 41 profile files**, and all rows have literature-backed status with explicit process scope. The shared registry contains **116 traceable references**. Sources have different strengths: primary experiments, reviews, standards, academic texts and limited manufacturer guidance are labelled accordingly. “Literature-backed” does not mean every aspect is settled or independently replicated.
+The catalog contains **46 products in 44 profile files**, and all rows have literature-backed status with explicit process scope. The shared registry contains **133 traceable references**. Sources have different strengths: primary experiments, reviews, standards, academic texts and limited manufacturer guidance are labelled accordingly. “Literature-backed” does not mean every aspect is settled or independently replicated.
 
-The 2026-09-07 review also corrected several earlier working assumptions. Blank numerical cells now mean no defensible universal value was found; ambient descriptions are not converted into invented temperatures; a blend code is not a strain; and separate processes reported under one name are preserved instead of averaged into a misleading range.
+The 2026-09-07 to 2026-09-08 review also corrected several earlier working assumptions. Blank numerical cells now mean no defensible universal value was found; ambient descriptions are not converted into invented temperatures; a blend code is not a strain; and separate processes reported under one name are preserved instead of averaged into a misleading range. Product-name collisions, such as Bulgarian versus Central Asian Katyk, are explicitly scoped.

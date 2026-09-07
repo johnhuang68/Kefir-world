@@ -31,7 +31,7 @@ Recommended future statuses:
 4. `traditional-source supported` — credible documentation exists but the product varies strongly by locality or household practice.
 5. `working draft` — plausible structured entry awaiting formal source attachment.
 
-All 43 rows reviewed through 2026-09-07 use `literature-backed; claim-specific scope`: a composite status with citations and explicit limitations, not a claim that every field is primary-source verified. Source quality is assessed per claim in the linked profile. An authoritative standard can establish a definition without supporting a historical origin or a strain's phenotype.
+All 46 rows reviewed through 2026-09-08 use `literature-backed; claim-specific scope`: a composite status with citations and explicit limitations, not a claim that every field is primary-source verified. Source quality is assessed per claim in the linked profile. An authoritative standard can establish a definition without supporting a historical origin or a strain's phenotype.
 
 ## Reference registry
 
