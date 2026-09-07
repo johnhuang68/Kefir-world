@@ -1,13 +1,13 @@
 # Kefir World Research Roadmap
 
-## Profile research completed — 2026-09-06
+## Profile research completed — 2026-09-06 to 2026-09-07
 
 - [x] Add detailed profiles for Caspian Sea Yogurt, Viili, Långfil, Filmjölk, Matsoni, Dahi and Bulgarian Yogurt.
 - [x] Attach species/strain evidence, EPS, process, storage and uncertainty notes to those profiles.
 - [x] Update the seven catalog rows with profile links, reference IDs and explicit fermentation scope.
 - [x] Expand the shared registry while preserving the original milk-kefir references.
 
-These are completed literature syntheses, not finished experimental accession records. The remaining 27 catalog rows still need this level of review. Priority gaps include Långfil fermentation duration, Filmjölk strain provenance, long-term backslopping studies, and matched storage/acidification measurements. Matsoni's later genomic reidentifications and inconsistent published isolate spellings must remain visible in future structured strain tables.
+All 43 catalog rows now have claim-scoped literature profiles. These are completed first-pass syntheses, not finished experimental accession records. Priority gaps include Långfil and Tettmelk duration, Filmjölk strain provenance, long-term backslopping studies, and matched storage/acidification measurements. Matsoni's later genomic reidentifications and inconsistent published isolate spellings must remain visible in future structured strain tables.
 
 ## Phase 1 — Core catalog
 
@@ -15,8 +15,8 @@ These are completed literature syntheses, not finished experimental accession re
 - [x] Add practical fermentation temperature ranges.
 - [x] Add typical fermentation times.
 - [x] Classify starter ecology and propagation type.
-- [ ] Attach at least one reliable reference to every row.
-- [ ] Separate household/traditional ranges from industrial process ranges.
+- [x] Attach at least one reliable reference to every row.
+- [x] Separate household/traditional ranges from industrial process ranges in `fermentation_scope` and profiles.
 
 ## Phase 2 — Microbiology
 

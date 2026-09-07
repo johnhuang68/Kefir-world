@@ -1,9 +1,13 @@
 # Milk Kefir
 
-**Category:** grain-based fermented milk  
-**Traditional region:** Caucasus / Eurasia  
-**Starter ecology:** stable multispecies kefir grain consortium  
-**Evidence status:** literature-backed profile (v1)
+**Category:** grain-based fermented milk\
+**Traditional region:** Caucasus / Eurasia; exact historical provenance is not a microbiological variety\
+**Starter ecology:** dynamic multispecies kefir-grain consortium\
+**Evidence status:** literature-backed profile; product-, species- and strain-level evidence distinguished
+
+## Origin and traditional versus modern production
+
+Milk kefir is historically associated with the Caucasus and surrounding Eurasian dairying traditions. Geographic labels describe provenance; they do not define standardized microbial varieties. Traditional production transfers intact grains between batches of cow, goat, sheep or other mammalian milk. Modern products may instead use freeze-dried grains, grain-derived inoculum or a defined “kefir-style” culture. These systems should not share a culture-accession identity without evidence. [MK001], [MK002], [MK003]
 
 ## Fermentation window
 
@@ -14,7 +18,7 @@
 | Common grain inoculum | roughly **2–10% w/v** in published production studies/reviews |
 | Typical endpoint | acidified fermented milk; endpoint depends on inoculum, milk and temperature |
 
-Traditional artisanal production is commonly described as milk inoculated with kefir grains and fermented for approximately 18–24 h at 20–25 °C. The grains are then separated and reused.
+Traditional artisanal production is commonly described as milk inoculated with kefir grains and fermented for approximately 18–24 h at 20–25 °C. The grains are then separated and reused. Milk heating, inoculum, oxygen exposure and agitation differ between studies, so the pair is a common practice band rather than a safety recipe. [MK001], [MK002]
 
 Temperature should not be treated as a single universal optimum. Kefir grains contain organisms with different temperature preferences, particularly lactic acid bacteria (LAB), acetic acid bacteria (AAB), and yeasts. Modern reviews therefore describe 20–25 °C as a practical traditional/common operating range rather than a biologically universal optimum.
 
@@ -41,7 +45,7 @@ Major ecological groups reported across natural grains include:
 - **Yeasts**
 - **Acetic acid bacteria (AAB)**
 
-Frequently reported taxa include *Lactobacillus kefiranofaciens*, *Lentilactobacillus/Lactobacillus kefiri*, *Lactococcus lactis*, *Leuconostoc* spp., and yeasts such as *Kluyveromyces marxianus*; composition varies substantially with grain origin and cultivation history.
+Frequently reported taxa include *Lactobacillus kefiranofaciens*, *Lentilactobacillus kefiri*, *Lactococcus lactis*, *Leuconostoc* spp., and yeasts such as *Kluyveromyces marxianus*; composition varies substantially with grain origin, milk and cultivation history. [MK002], [MK003]
 
 > Important: there is no single universal 'kefir microbiome'. Geographic origin, substrate, cultivation conditions and analytical method can produce substantially different profiles.
 
@@ -78,29 +82,19 @@ Future accession records should include:
 
 Freeze-drying/lyophilization can preserve kefir cultures, but published reviews report that dehydration/lyophilization may alter lactose metabolism and bacterial profiles relative to the original grains. A revived dried grain should therefore not automatically be assumed microbiologically identical to its pre-drying state.
 
-## Evidence notes
+## Strain-level evidence boundary
 
-### Core references
+The cited reviews contain many named isolates, but a species name, a reference genome and a strain tested outside the sampled grain are not interchangeable. This profile therefore does not declare one “universal kefir strain.” Future strain records require a source grain, isolation method, actual designation and, ideally, a public accession. Detection in fermented milk also does not establish a health effect or permanent intestinal colonization.
 
-1. **Leite et al. (2013).** Microbiological, technological and therapeutic properties of kefir: a natural probiotic beverage. *Brazilian Journal of Microbiology*. PMCID: PMC3833126.  
-   https://pmc.ncbi.nlm.nih.gov/articles/PMC3833126/
+## Traceable references
 
-2. **Bourrie, Willing & Cotter (2016 / online 2015).** The microbiota and health promoting characteristics of the fermented beverage kefir. Related literature summarized in later kefir reviews.
-
-3. **Prado et al. / review: Milk kefir: composition, microbial cultures, biological activities, and related products (2015).** PMCID: PMC4626640.  
-   https://pmc.ncbi.nlm.nih.gov/articles/PMC4626640/
-
-4. **Tzavaras et al. (2022).** From Milk Kefir to Water Kefir: Assessment of Fermentation Processes, Microbial Changes and Evaluation of the Produced Beverages. *Fermentation* 8(3):135.  
-   https://www.mdpi.com/2311-5637/8/3/135
-
-5. **Comparative Analysis of Fermentation Conditions on the Increase of Biomass and Morphology of Milk Kefir Grains (2022).** *Applied Sciences* 12(5):2459.  
-   https://www.mdpi.com/2076-3417/12/5/2459
-
-6. **A Big World in Small Grain: A Review of Natural Milk Kefir Starters (2020).** *Microorganisms* 8(2):192.  
-   https://www.mdpi.com/2076-2607/8/2/192
-
-7. **Production of Kefir and Kefir-like Beverages: Fundamental Aspects, Advances, and Future Challenges (2026).** *Processes* 14(1):73.  
-   https://www.mdpi.com/2227-9717/14/1/73
+1. **MK001 — Leite, A. M. O., et al. (2013).** Microbiological, technological and therapeutic properties of kefir: a natural probiotic beverage. *Brazilian Journal of Microbiology* 44:341–349. [DOI: 10.1590/S1517-83822013000200001](https://doi.org/10.1590/S1517-83822013000200001).
+2. **MK002 — Prado, M. R., et al. (2015).** Milk kefir: composition, microbial cultures, biological activities, and related products. *Frontiers in Microbiology* 6:1177. [DOI: 10.3389/fmicb.2015.01177](https://doi.org/10.3389/fmicb.2015.01177).
+3. **MK003 — Fiorda, F. A., et al. (2020).** A Big World in Small Grain: A Review of Natural Milk Kefir Starters. *Microorganisms* 8:192. [DOI: 10.3390/microorganisms8020192](https://doi.org/10.3390/microorganisms8020192).
+4. **MK004 — Tzavaras, D., et al. (2022).** From Milk Kefir to Water Kefir: Assessment of Fermentation Processes, Microbial Changes and Evaluation of the Produced Beverages. *Fermentation* 8:135. [DOI: 10.3390/fermentation8030135](https://doi.org/10.3390/fermentation8030135).
+5. **MK005 — Zajšek, K., et al. (2022).** Comparative Analysis of Fermentation Conditions on the Increase of Biomass and Morphology of Milk Kefir Grains. *Applied Sciences* 12:2459. [DOI: 10.3390/app12052459](https://doi.org/10.3390/app12052459).
+6. **MK006 — Alves, E., et al. (2021).** Characterization of Kefir Produced in Household Conditions: Physicochemical and Nutritional Profile, and Storage Stability. *Foods* 10:1057. [DOI: 10.3390/foods10051057](https://doi.org/10.3390/foods10051057). Product-specific CIDCA AGK1 results; not a universal strain list.
+7. **MK007 — Production of Kefir and Kefir-like Beverages: Fundamental Aspects, Advances, and Future Challenges (2026).** *Processes* 14:73. [DOI: 10.3390/pr14010073](https://doi.org/10.3390/pr14010073).
 
 ## Data-quality rule
 
@@ -108,4 +102,10 @@ Ranges in this profile describe reported/traditional production conditions, **no
 
 ---
 
-*Kefir World profile version: 1.0 — 2026-09-06*
+*Kefir World profile version: 1.1 — 2026-09-07*
+
+[MK001]: https://doi.org/10.1590/S1517-83822013000200001
+[MK002]: https://doi.org/10.3389/fmicb.2015.01177
+[MK003]: https://doi.org/10.3390/microorganisms8020192
+[MK004]: https://doi.org/10.3390/fermentation8030135
+[MK005]: https://doi.org/10.3390/app12052459

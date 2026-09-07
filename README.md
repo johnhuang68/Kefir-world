@@ -20,7 +20,7 @@ These are practical grouping ranges, not strict taxonomic definitions. Individua
 
 ## Included examples
 
-Milk Kefir, Viili, Långfil, Filmjölk, Piimä, Tätemjölk/Tettmelk, Caspian Sea Yogurt, Dadih, Ergo, Lben/Leben, Nunu/Nono, Mabisi, Dhanaan, Rayeb/Raib, Amasi/Maas, Suusac, Chal/Shubat, Kumis/Airag, Matsoni/Matzoon, Dahi/Curd, Mishti Doi, Laban, Zabadi, Skyr, Acidophilus Milk, Bifidus Milk, AB Yogurt, ABT Yogurt, Traditional Yogurt, Greek Yogurt, Bulgarian Yogurt, and Labneh.
+The catalog contains the original 34 rows plus nine source-backed additions: **Ititu, Mursik, Ayran, Doogh, Labneh Ambaris, Tarag, Ryazhenka, Varenets, and Katyk**. Industrial Laban and Zabadi retain separate data rows but share profiles with their traditional counterparts so that the process comparison remains visible in one place.
 
 ## Repository structure
 
@@ -32,18 +32,15 @@ Milk Kefir, Viili, Långfil, Filmjölk, Piimä, Tätemjölk/Tettmelk, Caspian Se
 
 ## Detailed profiles
 
-| Product | Profile focus |
-|---|---|
-| [Milk Kefir](profiles/milk-kefir.md) | Existing first profile; grain consortium and kefiran |
-| [Caspian Sea Yogurt](profiles/caspian-sea-yogurt.md) | Japanese lineage; FC/FA and KYG22; powder activation versus transfers |
-| [Viili](profiles/viili.md) | Finnish versus Taiwanese cultures; EPS; traditional fungal surface |
-| [Långfil](profiles/langfil.md) | LAPT 3001; ropiness and trait retention; unresolved fermentation duration |
-| [Filmjölk](profiles/filmjolk.md) | Mesophilic aromatic milk; species evidence without invented strain codes |
-| [Matsoni / Matzoon](profiles/matsoni.md) | Regional ecology; traditional and pilot production; later genomic identification corrections |
-| [Dahi](profiles/dahi.md) | Regional communities; defined starter strains; EPS and storage experiments |
-| [Bulgarian Yogurt](profiles/bulgarian-yogurt.md) | Yogurt species versus strains; PDO identity; microbial cooperation |
+All catalog rows now link to a detailed profile covering identity and history, traditional versus modern production, milk, source-paired temperature/time, sensory properties, microbial ecology, published isolate designations, EPS, acidification, propagation, storage and evidence gaps. The 41 files cover:
 
-The seven profiles added on **2026-09-06** cover history, milk and process, temperature/time, sensory properties, microbial ecology, published isolate designations, EPS, acidification, propagation, storage and evidence gaps. A missing strain ID or storage duration remains explicitly unknown.
+- Nordic and European cultures: Milk Kefir, Viili, Långfil, Filmjölk, Piimä, Tettmelk, Skyr, Ryazhenka and Varenets.
+- Asian and Caucasus traditions: Caspian Sea Yogurt, Dadih, Tarag, Katyk, Chal/Shubat, Kumis/Airag, Matsoni, Dahi and Mishti Doi.
+- African traditions: Ergo, Ititu, Dhanaan, Nunu, Mabisi, Amasi, Suusac, Mursik, Lben and Rayeb.
+- Middle Eastern products: Laban, Zabadi, Ayran, Doogh, Labneh and the distinct long-process Labneh Ambaris.
+- Defined or concentrated cultured milks: Traditional Yogurt, Greek Yogurt, Bulgarian Yogurt, Acidophilus Milk, Bifidus Milk, AB Yogurt and ABT Yogurt.
+
+A missing strain ID, process temperature or storage duration remains explicitly unknown. Shared profiles for traditional/industrial Laban and Zabadi keep their paired processes separate.
 
 ## Evidence policy
 
@@ -53,4 +50,6 @@ The reviewed catalog rows link to their profile and reference IDs. Read `ferment
 
 ## Status
 
-The catalog contains **34 products**. Seven rows now have detailed literature-backed profiles and explicit process scope; the other 27 retain their existing working-draft status. The shared registry contains **64 references**, including the seven existing milk-kefir entries. Sources have different strengths: primary experiments, reviews, standards and one named manufacturer's practical guidance are labelled accordingly. “Literature-backed” does not mean every aspect is settled or independently replicated.
+The catalog contains **43 products in 41 profile files**, and all rows have literature-backed status with explicit process scope. The shared registry contains **116 traceable references**. Sources have different strengths: primary experiments, reviews, standards, academic texts and limited manufacturer guidance are labelled accordingly. “Literature-backed” does not mean every aspect is settled or independently replicated.
+
+The 2026-09-07 review also corrected several earlier working assumptions. Blank numerical cells now mean no defensible universal value was found; ambient descriptions are not converted into invented temperatures; a blend code is not a strain; and separate processes reported under one name are preserved instead of averaged into a misleading range.
