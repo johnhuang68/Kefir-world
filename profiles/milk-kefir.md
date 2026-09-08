@@ -86,6 +86,20 @@ Freeze-drying/lyophilization can preserve kefir cultures, but published reviews 
 
 The cited reviews contain many named isolates, but a species name, a reference genome and a strain tested outside the sampled grain are not interchangeable. This profile therefore does not declare one “universal kefir strain.” Future strain records require a source grain, isolation method, actual designation and, ideally, a public accession. Detection in fermented milk also does not establish a health effect or permanent intestinal colonization.
 
+## Milk-fat comparison found through the supplier page
+
+A primary study linked from Freshly Fermented's semi-skimmed-milk article compared **0.1% and 3.1% fat UHT cow milk** using a commercial freeze-dried kefir starter, not grains. One packet was used per 3 L, followed by incubation at **25 °C for 20 or 26 h** and storage at **4 °C for up to 24 h**. At 26 h, the low- and full-fat products had pH 4.46 and 4.48, respectively. Full-fat kefir had greater water-holding capacity and viscosity; the full-fat 26 h condition reached 57.1% water-holding capacity and 21.7 P, while the low-fat 20 h condition measured 28.1% and 16.0 P. [MK008]
+
+This small 2 × 2 experiment used duplicate productions and triplicate measurements. It supports milk-fat and time effects for that defined starter and process, but it does not demonstrate the behavior of natural kefir grains or validate the retailer's broader health and grain-maintenance claims.
+
+## Freshly Fermented commercial handling notes
+
+Freshly Fermented's fresh-grain page describes an arrival/recovery workflow using about **250 mL milk**, room temperature ideally above **18 °C**, and inspection after **24–48 h**. If the milk has not separated, the grains are strained into fresh milk and the cycle is repeated; the page says full adaptation after shipping can take one to two weeks. Its routine example uses **5 g grains per 250 mL milk**, generally **18–48 h**, with about 24 h at approximately 18 °C. [FF001]
+
+For its freeze-dried grains, the supplier specifies **250 mL whole pasteurized milk**, **18–24 °C**, and cycles of up to **48 h** with fresh milk. It reports a supplier-observed total recovery period of **2–14 days** and treats reliable fermentation within about 24 h as the activation endpoint. These are revival instructions for that product, not evidence that the revived community is compositionally identical to fresh grains. [FF002]
+
+The site's alternative cold method uses fully activated grains at **5 °C**, approximately **15 g per 250 mL**, for **2–7 days**, with daily stirring. This is retained as a separate commercial method and does not widen the traditional 20–25 °C catalog range. The same page makes uncited claims about greater kefiran, diversity and health effects at low temperature; those claims are not adopted here. [FF003]
+
 ## Traceable references
 
 1. **MK001 — Leite, A. M. O., et al. (2013).** Microbiological, technological and therapeutic properties of kefir: a natural probiotic beverage. *Brazilian Journal of Microbiology* 44:341–349. [DOI: 10.1590/S1517-83822013000200001](https://doi.org/10.1590/S1517-83822013000200001).
@@ -95,6 +109,10 @@ The cited reviews contain many named isolates, but a species name, a reference g
 5. **MK005 — Zajšek, K., et al. (2022).** Comparative Analysis of Fermentation Conditions on the Increase of Biomass and Morphology of Milk Kefir Grains. *Applied Sciences* 12:2459. [DOI: 10.3390/app12052459](https://doi.org/10.3390/app12052459).
 6. **MK006 — Alves, E., et al. (2021).** Characterization of Kefir Produced in Household Conditions: Physicochemical and Nutritional Profile, and Storage Stability. *Foods* 10:1057. [DOI: 10.3390/foods10051057](https://doi.org/10.3390/foods10051057). Product-specific CIDCA AGK1 results; not a universal strain list.
 7. **MK007 — Production of Kefir and Kefir-like Beverages: Fundamental Aspects, Advances, and Future Challenges (2026).** *Processes* 14:73. [DOI: 10.3390/pr14010073](https://doi.org/10.3390/pr14010073).
+8. **MK008 — Sıçramaz, H., & Güven, B. E. (2026).** Quality Changes in Kefir: Influence of Fat Content and Fermentation Time. *Food Science Insights* 1(1):1–9. [Article and full text](https://dergipark.org.tr/en/pub/fsi/article/1830757). Small controlled defined-starter study; not kefir-grain evidence.
+9. **FF001 — Freshly Fermented (undated; sitemap last modified 2026-06-01).** [Milk Kefir Instructions: What To Do When Your Grains Arrive](https://freshlyfermented.co.uk/instructions/milk-kefir-instructions/). Commercial product-specific instructions; not peer-reviewed evidence. Page accessed 2026-09-08.
+10. **FF002 — Freshly Fermented (undated; sitemap last modified 2026-06-01).** [How To Activate Freeze-Dried Milk Kefir Grains](https://freshlyfermented.co.uk/instructions/dehydrated-milk-kefir-grains-instructions/). Commercial product-specific instructions; recovery claims are supplier guidance. Page accessed 2026-09-08.
+11. **FF003 — Freshly Fermented (undated; sitemap last modified 2026-05-28).** [Cold Fermentation of Milk Kefir](https://freshlyfermented.co.uk/instructions/cold-fermentation-of-milk-kefir/). Commercial product-specific instructions; not peer-reviewed evidence. Page accessed 2026-09-08.
 
 ## Data-quality rule
 
@@ -102,10 +120,14 @@ Ranges in this profile describe reported/traditional production conditions, **no
 
 ---
 
-*Kefir World profile version: 1.1 — 2026-09-07*
+*Kefir World profile version: 1.2 — 2026-09-08*
 
 [MK001]: https://doi.org/10.1590/S1517-83822013000200001
 [MK002]: https://doi.org/10.3389/fmicb.2015.01177
 [MK003]: https://doi.org/10.3390/microorganisms8020192
 [MK004]: https://doi.org/10.3390/fermentation8030135
 [MK005]: https://doi.org/10.3390/app12052459
+[MK008]: https://dergipark.org.tr/en/pub/fsi/article/1830757
+[FF001]: https://freshlyfermented.co.uk/instructions/milk-kefir-instructions/
+[FF002]: https://freshlyfermented.co.uk/instructions/dehydrated-milk-kefir-grains-instructions/
+[FF003]: https://freshlyfermented.co.uk/instructions/cold-fermentation-of-milk-kefir/

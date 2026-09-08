@@ -20,16 +20,22 @@ Traditional backslopping and industrial defined starters are separate systems. D
 
 Skyr differs from Greek Yogurt by its Icelandic process history, traditional use of skim milk and possible rennet, though modern composition can overlap. The catalog replaces the old 35–43 °C / 5–12 h range with the documented **40 °C / 4–6 h** primary stage.
 
+## Freshly Fermented commercial-starter instructions
+
+The supplier's first-batch protocol uses one sachet in **1 L boiled-and-cooled milk**, incubated at **42 °C for about 10 h**, with up to **18 h** allowed for initial setting. It then chills the product and drains whey under refrigeration for **8–12 h**. Later batches use about **1 tablespoon per litre** from Skyr younger than seven days. This is a commercial starter workflow with no disclosed organism or strain list; it does not replace the historically grounded 40 °C / 4–6 h primary stage or establish rennet use. [FF010]
+
 ## Traceable references
 
 1. **SKY001 — Gudmundsson, M., & Kristbergsson, K. (2016).** Modernization of Skyr Processing. In *Modernization of Traditional Food Processes and Products*. Springer. [DOI: 10.1007/978-1-4899-7671-0_5](https://doi.org/10.1007/978-1-4899-7671-0_5).
 2. **SKY002 — Jónsdóttir, R., et al. (2011).** Traditional skyr: comparison of home-made and factory-made skyr, preliminary study. Matís report. [Institutional record](https://matis.is/en/skyrsla/hefdbundid-skyr-samanburdur-a-heimagerdu-og-verksmidjuframleiddu-skyri-forkonnun-traditional-skyr-comparison-between-homemade-and-industrial-produced-skyr-preliminary-study/).
 3. **VII010 — Narvhus, J. A., & Abrahamsen, R. K. (2023).** Traditional and modern Nordic fermented milk products: A review. *International Dairy Journal* 142:105641. [DOI](https://doi.org/10.1016/j.idairyj.2023.105641).
+4. **FF010 — Freshly Fermented (undated; sitemap last modified 2026-06-05).** [Skyr Yoghurt Starter Instructions](https://freshlyfermented.co.uk/instructions/skyr-yoghurt-starter-instructions/). Commercial product-specific instructions; not peer-reviewed evidence. Page accessed 2026-09-08.
 
 ---
 
-*Kefir World profile version: 1.0 — 2026-09-07*
+*Kefir World profile version: 1.2 — 2026-09-08*
 
 [SKY001]: https://doi.org/10.1007/978-1-4899-7671-0_5
 [SKY002]: https://matis.is/en/skyrsla/hefdbundid-skyr-samanburdur-a-heimagerdu-og-verksmidjuframleiddu-skyri-forkonnun-traditional-skyr-comparison-between-homemade-and-industrial-produced-skyr-preliminary-study/
 [VII010]: https://doi.org/10.1016/j.idairyj.2023.105641
+[FF010]: https://freshlyfermented.co.uk/instructions/skyr-yoghurt-starter-instructions/

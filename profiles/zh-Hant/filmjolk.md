@@ -87,16 +87,22 @@ FIL001 中的商業產品分離株是使用現代 *Bergey's Manual* 方法進行
 
 製程基準來自學術技術文本；命名物種的證據來自一項商業分離研究。這也不是對所有瑞典產品的代表性調查。詳細的公共菌株來源、真菌分析、冷藏動力學和傳播穩定性仍然不完整。這些空白被明確保留，而不是用供應商的猜測或以菌株形式呈現的物種名稱來填充。
 
+## Freshly Fermented 商業菌種操作說明
+
+Freshly Fermented 指示使用者把一包冷凍乾燥 Filmjölk 菌種加入 **1 L 乳品**，在 **20–25 °C 發酵 24–48 小時**。後續批次每公升約加入一湯匙七天內的前一批產品。此範圍比學術技術資料中的約 20 °C／17–24 小時更廣且更長，因此兩者分開保存為來源特定製程。頁面未提供微生物或菌株證明。 [FF006]
+
 ## 可追溯參考資料
 
 1. **FIL001 — Mori, F., Nakamura, T., Nakamura Osawa, A., Arai, I., & Urashima, T. (2000).** Chemical and Immunological Properties of Cell Wall Polysaccharide of Leuconostoc mesenteroides subsp. cremoris Isolated from the Commercial Fermented Milk, “Filmjolk”. *Milk Science* 49:21–28. [DOI: 10.11465/milk.49.21](https://doi.org/10.11465/milk.49.21); [author-institution full text](https://obihiro.repo.nii.ac.jp/record/144/files/chemical.pdf). Primary isolate/chemistry study; Methods distinguishes the organism from CNP fractions.
 2. **LAN003 — Walstra, P., Wouters, J. T. M., & Geurts, T. J. (2006).** *Dairy Science and Technology*, second edition. CRC/Taylor & Francis, section 22.2.1, p. 553. [Academic-library copy](https://repository.ottimmo.ac.id/38/1/Dairy%20Science%20and%20Technology%20%28CRC%202005%29.pdf). Technical process description; copyright 2006 in the inspected edition.
 3. **VII010 — Narvhus, J. A., & Abrahamsen, R. K. (2023).** Traditional and modern Nordic fermented milk products: A review. *International Dairy Journal* 142:105641. [DOI: 10.1016/j.idairyj.2023.105641](https://doi.org/10.1016/j.idairyj.2023.105641). Historical and starter-category context.
+4. **FF006 — Freshly Fermented (undated; sitemap last modified 2026-06-05).** [Filmjölk Yoghurt Starter Instructions](https://freshlyfermented.co.uk/instructions/filmjolk-yoghurt-starter-instructions/)。商業產品特定操作說明；非同行評審證據。存取日期：2026-09-08。
 
 ---
 
-*Kefir World 繁體中文 profile 版本： 1.0 — 2026-09-06*
+*Kefir World 繁體中文 profile 版本：1.2 — 2026-09-08*
 
 [FIL001]: https://doi.org/10.11465/milk.49.21
 [LAN003]: https://repository.ottimmo.ac.id/38/1/Dairy%20Science%20and%20Technology%20%28CRC%202005%29.pdf
 [VII010]: https://doi.org/10.1016/j.idairyj.2023.105641
+[FF006]: https://freshlyfermented.co.uk/instructions/filmjolk-yoghurt-starter-instructions/

@@ -22,16 +22,22 @@ Skyr 是冰島歷史悠久的乳製品傳統，歷史上由脫脂牛奶製成。
 
 Skyr 與希臘優格的不同之處在於其冰島加工歷史、脫脂牛奶的傳統使用以及可能的凝乳酶，儘管現代成分可能重疊。該目錄以記錄的 **40 °C / 4–6 h** 初級階段取代了舊的 35–43 °C / 5–12 h 範圍。
 
+## Freshly Fermented 商業菌種操作說明
+
+供應商的首批製程把一包菌種加入 **1 L 煮沸後冷卻的乳品**，在 **42 °C 培養約 10 小時**；首次凝固最長可延至 **18 小時**。之後冷卻，並在冷藏狀態瀝乳清 **8–12 小時**。後續批次每公升約加入一湯匙七天內的 Skyr。這套商業菌種製程沒有微生物或菌株清單，不能取代具歷史來源的 40 °C／4–6 小時第一階段，也不能證明是否使用凝乳酶。 [FF010]
+
 ## 可追溯參考資料
 
 1. **SKY001 — Gudmundsson, M., & Kristbergsson, K. (2016).** Modernization of Skyr Processing. In *Modernization of Traditional Food Processes and Products*. Springer. [DOI: 10.1007/978-1-4899-7671-0_5](https://doi.org/10.1007/978-1-4899-7671-0_5).
 2. **SKY002 — Jónsdóttir, R., et al. (2011).** Traditional skyr: comparison of home-made and factory-made skyr, preliminary study. Matís report. [Institutional record](https://matis.is/en/skyrsla/hefdbundid-skyr-samanburdur-a-heimagerdu-og-verksmidjuframleiddu-skyri-forkonnun-traditional-skyr-comparison-between-homemade-and-industrial-produced-skyr-preliminary-study/).
 3. **VII010 — Narvhus, J. A., & Abrahamsen, R. K. (2023).** Traditional and modern Nordic fermented milk products: A review. *International Dairy Journal* 142:105641. [DOI](https://doi.org/10.1016/j.idairyj.2023.105641).
+4. **FF010 — Freshly Fermented (undated; sitemap last modified 2026-06-05).** [Skyr Yoghurt Starter Instructions](https://freshlyfermented.co.uk/instructions/skyr-yoghurt-starter-instructions/)。商業產品特定操作說明；非同行評審證據。存取日期：2026-09-08。
 
 ---
 
-*Kefir World 繁體中文 profile 版本： 1.0 — 2026-09-07*
+*Kefir World 繁體中文 profile 版本：1.2 — 2026-09-08*
 
 [SKY001]: https://doi.org/10.1007/978-1-4899-7671-0_5
 [SKY002]: https://matis.is/en/skyrsla/hefdbundid-skyr-samanburdur-a-heimagerdu-og-verksmidjuframleiddu-skyri-forkonnun-traditional-skyr-comparison-between-homemade-and-industrial-produced-skyr-preliminary-study/
 [VII010]: https://doi.org/10.1016/j.idairyj.2023.105641
+[FF010]: https://freshlyfermented.co.uk/instructions/skyr-yoghurt-starter-instructions/

@@ -110,6 +110,10 @@ pH 值測量氫離子活性；可滴定酸度也反映了牛奶緩衝作用。�
 4. **權威是特定於索賠的：** PDO 檔案建立其規範並記錄歷史索賠。該細菌僅在保加利亞繁殖的說法並未被採納為生物學規則；其他地方的工業和實驗種植記錄在 BUL006-BUL007 中。
 5. **剩餘差距：** 匹配傳統批次 pH 曲線、縱向回種、酵母/ITS 調查、噬菌體敏感性和指定種質的冷凍/乾燥回收率。健康或長壽的主張不是透過分離、基因組定序或體外代謝產物生產來確定的。
 
+## Freshly Fermented 商業菌種操作說明
+
+該供應商的冷凍乾燥產品先把乳煮沸、冷卻，再於 **42 °C 培養約 8 小時**；首批最長可能需要 **18 小時**，凝固後至少冷藏兩小時。後續批次每公升約使用一湯匙七天內的產品。頁面未揭露菌株身分，也沒有保加利亞 PDO 來源證據，因此首次啟用時間與綜述支持的 42–45 °C／2.5–4 小時受控製程分開保存。 [FF009]
+
 ## 可追溯參考資料
 
 1. **GEN001 — Codex Alimentarius Commission.** *Standard for Fermented Milks*, CXS 243-2003 (amended through 2024). Sections 2.1 and 3.3. [Official FAO PDF](https://www.fao.org/fao-who-codexalimentarius/sh-proxy/en/?lnk=1&url=https%3A%2F%2Fworkspace.fao.org%2Fsites%2Fcodex%2FStandards%2FCXS%20243-2003%2FCXS_243e.pdf). Authoritative category definition, not a recipe or strain census.
@@ -124,10 +128,11 @@ pH 值測量氫離子活性；可滴定酸度也反映了牛奶緩衝作用。�
 10. **BUL009 — Shehata, H. R., Chandler, R. A., & Newmaster, S. G. (2020).** Draft Genome Sequence of Streptococcus thermophilus Strain CBC-S77, Isolated from Homemade Dairy Foods in Bulgaria. *Microbiology Resource Announcements* 9:e00879-20. [DOI: 10.1128/MRA.00879-20](https://doi.org/10.1128/MRA.00879-20); [PMC7484077](https://pmc.ncbi.nlm.nih.gov/articles/PMC7484077/). Primary genome announcement; broad dairy-food provenance.
 11. **BUL010 — FAO (1995).** Le lait et les produits laitiers dans la nutrition humaine. Chapter 5: Laits fermentés. [Official chapter](https://www.fao.org/4/t4280f/t4280f0d.htm). Authoritative historical technical account of yogurt gelation, aroma and process; older standards mentioned there are not treated as current law.
 12. **BUL011 — Sieuwerts, S., et al. (2010).** Mixed-Culture Transcriptome Analysis Reveals the Molecular Basis of Mixed-Culture Growth in Streptococcus thermophilus and Lactobacillus bulgaricus. *Applied and Environmental Microbiology* 76:7775–7784. [DOI: 10.1128/AEM.01122-10](https://doi.org/10.1128/AEM.01122-10); [PMC2988612](https://pmc.ncbi.nlm.nih.gov/articles/PMC2988612/). Primary comparator-system evidence; not a Bulgarian geographical survey.
+13. **FF009 — Freshly Fermented (undated; sitemap last modified 2026-06-05).** [Bulgarian Yoghurt Starter Instructions](https://freshlyfermented.co.uk/instructions/bulgarian-yoghurt-starter-instructions/)。商業產品特定操作說明；非同行評審證據。存取日期：2026-09-08。
 
 ---
 
-*Kefir World 繁體中文 profile 版本： 1.0 — 2026-09-06*
+*Kefir World 繁體中文 profile 版本：1.2 — 2026-09-08*
 
 [BUL001]: https://doi.org/10.3390/microorganisms9030480
 [BUL002]: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52023XC0405%2802%29
@@ -141,3 +146,4 @@ pH 值測量氫離子活性；可滴定酸度也反映了牛奶緩衝作用。�
 [BUL010]: https://www.fao.org/4/t4280f/t4280f0d.htm
 [BUL011]: https://doi.org/10.1128/AEM.01122-10
 [GEN001]: https://www.fao.org/fao-who-codexalimentarius/sh-proxy/en/?lnk=1&url=https%3A%2F%2Fworkspace.fao.org%2Fsites%2Fcodex%2FStandards%2FCXS%20243-2003%2FCXS_243e.pdf
+[FF009]: https://freshlyfermented.co.uk/instructions/bulgarian-yoghurt-starter-instructions/

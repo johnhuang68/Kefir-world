@@ -29,14 +29,20 @@ Piimä 在微生物學上與 Filmjölk 和菌種酪乳重疊，但芬蘭的命�
 
 PII001 是一項針對巴西 Piimä 型菌種的四頁小型研究，其來源尚未確定。它僅支援其規定的過程和測量。芬蘭的一項初步調查將家戶菌種、物種、菌株代碼、EPS 和酸化對應，仍然是優先差距。
 
+## Freshly Fermented 商業菌種操作說明
+
+供應商以 **150 mL 煮沸後冷卻的全脂巴氏殺菌乳**，在室溫啟用一包冷凍乾燥 Piimä 菌種 **24–72 小時**。日常批次在室溫發酵 **12–48 小時**，每 **500 mL 乳品約加入一湯匙前一批 Piimä**，並建議使用七天內的接種物。頁面沒有揭露微生物、菌株代碼或可把該商業菌種連回芬蘭系譜的證明，因此這些數值只作產品特定操作資料。 [FF005]
+
 ## 可追溯參考資料
 
 1. **VII010 — Narvhus, J. A., & Abrahamsen, R. K. (2023).** Traditional and modern Nordic fermented milk products: A review. *International Dairy Journal* 142:105641. [DOI: 10.1016/j.idairyj.2023.105641](https://doi.org/10.1016/j.idairyj.2023.105641).
 2. **PII001 — Mattanna, P., Campos, B. E. R., Zielinski, G., Vacelik, B. A., & Saporiti, S. S. M. (2021).** Sensory, Physicochemical and Microbiological Analysis of Fermented Milk Piima. *International Academic Journal of Nutrition & Food Sciences* 2(1):1–4. [DOI: 10.47310/iajnfs.2021.v02i01.008](https://doi.org/10.47310/iajnfs.2021.v02i01.008).
+3. **FF005 — Freshly Fermented (undated; sitemap last modified 2026-06-05).** [Piima Yoghurt Starter Instructions](https://freshlyfermented.co.uk/instructions/piima-yoghurt-starter-instructions/)。商業產品特定操作說明；非同行評審證據。存取日期：2026-09-08。
 
 ---
 
-*Kefir World 繁體中文 profile 版本： 1.1 — 2026-09-08*
+*Kefir World 繁體中文 profile 版本：1.2 — 2026-09-08*
 
 [VII010]: https://doi.org/10.1016/j.idairyj.2023.105641
 [PII001]: https://doi.org/10.47310/iajnfs.2021.v02i01.008
+[FF005]: https://freshlyfermented.co.uk/instructions/piima-yoghurt-starter-instructions/

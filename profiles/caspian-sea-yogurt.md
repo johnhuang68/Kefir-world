@@ -89,6 +89,10 @@ A Brazilian study of **Caspian Sea-style spontaneous fermentation using poorly c
 - **Unresolved:** longitudinal community stability, direct contemporary Caucasus-to-Japan lineage comparison, milk-species trials, quantitative household pH curves, and yeast/fungal surveys.
 - **Interpretation:** isolate function, EPS production or a historical association with longevity does not establish a clinical benefit.
 
+## Additional commercial-starter instructions
+
+Freshly Fermented gives **20–25 °C for 24–48 h** for one sachet in **1 L milk**, followed by about **1 tablespoon of previous product per litre** for reculturing, preferably using product younger than seven days. This is a second supplier's marketed culture and is not evidence that it contains the historical FC/FA pair characterized in the Japanese literature. Its figures are stored separately from Fujicco's activation and transfer guidance. [FF007]
+
 ## Traceable references
 
 1. **CSY001 — Ishida, T., Yokota, A., Umezawa, Y., Toda, T., & Yamada, K. (2005).** Identification and Characterization of Lactococcal and Acetobacter Strains Isolated from Traditional Caucasusian Fermented Milk. *Journal of Nutritional Science and Vitaminology* 51:187–193. [DOI: 10.3177/jnsv.51.187](https://doi.org/10.3177/jnsv.51.187); [PubMed 16161770](https://pubmed.ncbi.nlm.nih.gov/16161770/). Primary full text; FC/FA identification and explicit Japanese propagation provenance.
@@ -99,10 +103,11 @@ A Brazilian study of **Caspian Sea-style spontaneous fermentation using poorly c
 6. **CSY006 — Lu, Y., et al. (2018).** Real-Time Monitoring of Chemical Changes in Three Kinds of Fermented Milk Products during Fermentation Using Quantitative Difference Nuclear Magnetic Resonance Spectroscopy. *Journal of Agricultural and Food Chemistry* 66:1479–1487. [DOI: 10.1021/acs.jafc.7b05279](https://doi.org/10.1021/acs.jafc.7b05279); [PubMed 29342350](https://pubmed.ncbi.nlm.nih.gov/29342350/). Primary fermentation-monitoring study; abstract used, numerical curves not extracted.
 7. **CSY007 — Maske, B. L., et al. (2021; online 2020).** Presence and persistence of Pseudomonas sp. during Caspian Sea-style spontaneous milk fermentation highlights the importance of safety and regulatory concerns for traditional and ethnic foods. *Food Science and Technology* 41(Suppl. 1):273–283. [DOI: 10.1590/fst.15620](https://doi.org/10.1590/fst.15620). Primary Brazilian contamination/fermentation study; spontaneous style, not a test of the defined Japanese FC/FA starter.
 8. **GEN001 — Codex Alimentarius Commission.** *Standard for Fermented Milks*, CXS 243-2003 (amended through 2024), section 2.1. [Official FAO PDF](https://www.fao.org/fao-who-codexalimentarius/sh-proxy/en/?lnk=1&url=https%3A%2F%2Fworkspace.fao.org%2Fsites%2Fcodex%2FStandards%2FCXS%20243-2003%2FCXS_243e.pdf). Authoritative terminology.
+9. **FF007 — Freshly Fermented (undated; sitemap last modified 2026-06-05).** [Caspian Sea Yoghurt Instructions](https://freshlyfermented.co.uk/instructions/caspian-sea-yoghurt-instructions/). Commercial product-specific instructions; not peer-reviewed evidence. Page accessed 2026-09-08.
 
 ---
 
-*Kefir World profile version: 1.0 — 2026-09-06*
+*Kefir World profile version: 1.2 — 2026-09-08*
 
 [CSY001]: https://doi.org/10.3177/jnsv.51.187
 [CSY002]: https://doi.org/10.3168/jds.2008-1081
@@ -112,3 +117,4 @@ A Brazilian study of **Caspian Sea-style spontaneous fermentation using poorly c
 [CSY006]: https://doi.org/10.1021/acs.jafc.7b05279
 [CSY007]: https://doi.org/10.1590/fst.15620
 [GEN001]: https://www.fao.org/fao-who-codexalimentarius/sh-proxy/en/?lnk=1&url=https%3A%2F%2Fworkspace.fao.org%2Fsites%2Fcodex%2FStandards%2FCXS%20243-2003%2FCXS_243e.pdf
+[FF007]: https://freshlyfermented.co.uk/instructions/caspian-sea-yoghurt-instructions/

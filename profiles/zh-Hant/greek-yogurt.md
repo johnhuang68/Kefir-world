@@ -31,14 +31,20 @@ EPS 與菌株有關，並且會影響濃縮前後的口感。緻密的最終產�
 
 希臘優格與 [Labneh](labneh.md) 的不同之處主要在於區域/產品慣例、鹽和濃度，而不是必要的微生物邊界。它與未過濾的傳統酸奶的不同之處在於固體濃度。食品法典類別和希臘菌株多樣性的證據很充分，而對於一種普遍的傳統過程和菌株譜系的證據則較弱。
 
+## Freshly Fermented 商業菌種操作說明
+
+Freshly Fermented 的產品製程把一包菌種加入 **1 L 煮沸後冷卻的巴氏殺菌乳**，在約 **42 °C 培養 10 小時**；首批最長可延至 **18 小時**，之後冷藏瀝乳清 **8–12 小時**。傳代時每公升約加入一湯匙七天內的產品。頁面沒有提供微生物或菌株證明，因此這只是單一商業菌種的操作說明，不是希臘優格的通用發酵時程。 [FF011]
+
 ## 可追溯參考資料
 
 1. **GEN001 — Codex Alimentarius Commission (2003; amended 2024).** Standard for Fermented Milks, CXS 243-2003. [Official PDF](https://www.fao.org/input/download/standards/400/CXS_243e.pdf).
 2. **YOG001 — Xanthopoulos, V., Petridis, D., & Tzanetakis, N. (2001).** Characterization and Classification of *Streptococcus thermophilus* and *Lactobacillus delbrueckii* subsp. *bulgaricus* Strains Isolated from Traditional Greek Yogurts. *Journal of Food Science* 66:747–752. [DOI: 10.1111/j.1365-2621.2001.tb04632.x](https://doi.org/10.1111/j.1365-2621.2001.tb04632.x).
+3. **FF011 — Freshly Fermented (undated; sitemap last modified 2026-06-05).** [Greek Yoghurt Starter Instructions](https://freshlyfermented.co.uk/instructions/greek-yoghurt-starter-instructions/)。商業產品特定操作說明；非同行評審證據。存取日期：2026-09-08。
 
 ---
 
-*Kefir World 繁體中文 profile 版本： 1.0 — 2026-09-07*
+*Kefir World 繁體中文 profile 版本：1.2 — 2026-09-08*
 
 [GEN001]: https://www.fao.org/input/download/standards/400/CXS_243e.pdf
 [YOG001]: https://doi.org/10.1111/j.1365-2621.2001.tb04632.x
+[FF011]: https://freshlyfermented.co.uk/instructions/greek-yoghurt-starter-instructions/

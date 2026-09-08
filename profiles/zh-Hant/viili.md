@@ -113,6 +113,10 @@ VII004幹菌種活化需要重複傳代培養，在pH 4.27-4.40完成。這並�
 
 命名菌株和指定工業/臺灣菌種樣本的證據最有力。在通用歷史配方、全家庭真菌成分和長期菌種儲存方面較弱。 2024 年的研究還給出了結果和結論之間不一致的組胺酸脫羧酶陽性分離株列表；這些 ID 不會在這裡傳播。 [VII004]
 
+## Freshly Fermented 商業菌種操作說明
+
+Freshly Fermented 把冷凍乾燥 Viili 菌種的啟用與日常傳代分開：一包菌種先加入 **150 mL 煮沸後冷卻的全脂巴氏殺菌乳**，在室溫啟用 **24–72 小時**。後續批次在室溫發酵 **12–48 小時**，每 **500 mL 乳品約使用一湯匙前一批 Viili**，並建議使用七天內的接種物。頁面把絲滑拉絲描述為正常特徵，但沒有提供微生物名單、菌株證明或 EPS 直接測量；這些數值只適用於該商業菌種，不能取代芬蘭文獻配對的製程範圍。 [FF004]
+
 ## 可追溯參考資料
 
 1. **VII001 — Kahala et al. (2008).** Characterization of starter lactic acid bacteria from the Finnish fermented milk product viili. *Journal of Applied Microbiology* 105:1929–1938. [DOI / primary study](https://doi.org/10.1111/j.1365-2672.2008.03952.x).
@@ -127,6 +131,7 @@ VII004幹菌種活化需要重複傳代培養，在pH 4.27-4.40完成。這並�
 10. **VII010 — Narvhus & Abrahamsen (2023).** Traditional and modern Nordic fermented milk products: A review. *International Dairy Journal* 142:105641. [DOI / academic review, especially section 7.3.2](https://doi.org/10.1016/j.idairyj.2023.105641).
 11. **VII011 — Nakajima et al. (1990).** A Novel Phosphopolysaccharide from Slime-Forming Lactococcus lactis subspecies cremoris SBT 0495. *Journal of Dairy Science* 73:1472–1477. [DOI / primary study](https://doi.org/10.3168/jds.S0022-0302(90)78812-1).
 12. **LAN002 — Neve, Geis & Teuber (1988).** Plasmid-encoded functions of ropy lactic acid streptococcal strains from Scandinavian fermented milk. *Biochimie* 70:437–442. [DOI / primary study](https://doi.org/10.1016/0300-9084(88)90218-0).
+13. **FF004 — Freshly Fermented (undated; sitemap last modified 2026-06-05).** [Viili Yoghurt Starter Instructions](https://freshlyfermented.co.uk/instructions/viili-yoghurt-starter-instructions/)。商業產品特定操作說明；非同行評審證據。存取日期：2026-09-08。
 
 ## Data-quality rule
 
@@ -134,7 +139,7 @@ Reported production ranges and isolate phenotypes are not safety guarantees, uni
 
 ---
 
-*Kefir World 繁體中文 profile 版本： 1.0 — 2026-09-06*
+*Kefir World 繁體中文 profile 版本：1.2 — 2026-09-08*
 
 [LAN002]: https://doi.org/10.1016/0300-9084(88)90218-0
 [VII001]: https://doi.org/10.1111/j.1365-2672.2008.03952.x
@@ -148,3 +153,4 @@ Reported production ranges and isolate phenotypes are not safety guarantees, uni
 [VII009]: https://academicjournals.org/journal/AJB/edition/23_November_2011
 [VII010]: https://doi.org/10.1016/j.idairyj.2023.105641
 [VII011]: https://doi.org/10.3168/jds.S0022-0302(90)78812-1
+[FF004]: https://freshlyfermented.co.uk/instructions/viili-yoghurt-starter-instructions/

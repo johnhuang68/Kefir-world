@@ -29,14 +29,20 @@ Household yogurt may be backslopped before draining; industrial products use sel
 
 Greek Yogurt differs from [Labneh](labneh.md) mainly by regional/product conventions, salt and degree of concentration rather than a necessary microbial boundary. It differs from unstrained Traditional Yogurt through solids concentration. Evidence is strong for the Codex class and Greek isolate diversity, weaker for one universal traditional process and strain lineage.
 
+## Freshly Fermented commercial-starter instructions
+
+Freshly Fermented's product protocol uses one sachet in **1 L boiled-and-cooled pasteurized milk**, approximately **42 °C for 10 h**, with up to **18 h** for the first set, followed by **8–12 h** of refrigerated whey drainage. Reculturing uses about **1 tablespoon per litre** from product younger than seven days. The page provides no organism or strain certificate, so these are instructions for one marketed starter rather than a universal Greek-yogurt fermentation schedule. [FF011]
+
 ## Traceable references
 
 1. **GEN001 — Codex Alimentarius Commission (2003; amended 2024).** Standard for Fermented Milks, CXS 243-2003. [Official PDF](https://www.fao.org/input/download/standards/400/CXS_243e.pdf).
 2. **YOG001 — Xanthopoulos, V., Petridis, D., & Tzanetakis, N. (2001).** Characterization and Classification of *Streptococcus thermophilus* and *Lactobacillus delbrueckii* subsp. *bulgaricus* Strains Isolated from Traditional Greek Yogurts. *Journal of Food Science* 66:747–752. [DOI: 10.1111/j.1365-2621.2001.tb04632.x](https://doi.org/10.1111/j.1365-2621.2001.tb04632.x).
+3. **FF011 — Freshly Fermented (undated; sitemap last modified 2026-06-05).** [Greek Yoghurt Starter Instructions](https://freshlyfermented.co.uk/instructions/greek-yoghurt-starter-instructions/). Commercial product-specific instructions; not peer-reviewed evidence. Page accessed 2026-09-08.
 
 ---
 
-*Kefir World profile version: 1.0 — 2026-09-07*
+*Kefir World profile version: 1.2 — 2026-09-08*
 
 [GEN001]: https://www.fao.org/input/download/standards/400/CXS_243e.pdf
 [YOG001]: https://doi.org/10.1111/j.1365-2621.2001.tb04632.x
+[FF011]: https://freshlyfermented.co.uk/instructions/greek-yoghurt-starter-instructions/

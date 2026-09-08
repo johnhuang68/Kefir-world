@@ -108,6 +108,10 @@ pH measures hydrogen-ion activity; titratable acidity also reflects milk bufferi
 4. **Authority is claim-specific:** a PDO document establishes its specification and records historical claims. Its statement that the bacterium only reproduces in Bulgaria is not adopted as a biological rule; industrial and experimental cultivation elsewhere is documented in BUL006–BUL007.
 5. **Remaining gaps:** matched traditional-batch pH curves, longitudinal backslopping, yeast/ITS surveys, phage susceptibility and freeze/dry recovery for named accessions. Health or longevity claims are not established by isolation, genome sequencing or in-vitro metabolite production.
 
+## Freshly Fermented commercial-starter instructions
+
+For the supplier's freeze-dried product, milk is boiled and cooled before incubation at **42 °C for about 8 h**; a first batch may take up to **18 h**, followed by at least two hours of refrigeration. Later batches use about **1 tablespoon per litre** from product younger than seven days. The page does not disclose strain identities or evidence of Bulgarian PDO provenance. Its first-activation timing is therefore kept separate from the review-supported 42–45 °C / 2.5–4 h controlled production range. [FF009]
+
 ## Traceable references
 
 1. **GEN001 — Codex Alimentarius Commission.** *Standard for Fermented Milks*, CXS 243-2003 (amended through 2024). Sections 2.1 and 3.3. [Official FAO PDF](https://www.fao.org/fao-who-codexalimentarius/sh-proxy/en/?lnk=1&url=https%3A%2F%2Fworkspace.fao.org%2Fsites%2Fcodex%2FStandards%2FCXS%20243-2003%2FCXS_243e.pdf). Authoritative category definition, not a recipe or strain census.
@@ -122,10 +126,11 @@ pH measures hydrogen-ion activity; titratable acidity also reflects milk bufferi
 10. **BUL009 — Shehata, H. R., Chandler, R. A., & Newmaster, S. G. (2020).** Draft Genome Sequence of Streptococcus thermophilus Strain CBC-S77, Isolated from Homemade Dairy Foods in Bulgaria. *Microbiology Resource Announcements* 9:e00879-20. [DOI: 10.1128/MRA.00879-20](https://doi.org/10.1128/MRA.00879-20); [PMC7484077](https://pmc.ncbi.nlm.nih.gov/articles/PMC7484077/). Primary genome announcement; broad dairy-food provenance.
 11. **BUL010 — FAO (1995).** Le lait et les produits laitiers dans la nutrition humaine. Chapter 5: Laits fermentés. [Official chapter](https://www.fao.org/4/t4280f/t4280f0d.htm). Authoritative historical technical account of yogurt gelation, aroma and process; older standards mentioned there are not treated as current law.
 12. **BUL011 — Sieuwerts, S., et al. (2010).** Mixed-Culture Transcriptome Analysis Reveals the Molecular Basis of Mixed-Culture Growth in Streptococcus thermophilus and Lactobacillus bulgaricus. *Applied and Environmental Microbiology* 76:7775–7784. [DOI: 10.1128/AEM.01122-10](https://doi.org/10.1128/AEM.01122-10); [PMC2988612](https://pmc.ncbi.nlm.nih.gov/articles/PMC2988612/). Primary comparator-system evidence; not a Bulgarian geographical survey.
+13. **FF009 — Freshly Fermented (undated; sitemap last modified 2026-06-05).** [Bulgarian Yoghurt Starter Instructions](https://freshlyfermented.co.uk/instructions/bulgarian-yoghurt-starter-instructions/). Commercial product-specific instructions; not peer-reviewed evidence. Page accessed 2026-09-08.
 
 ---
 
-*Kefir World profile version: 1.0 — 2026-09-06*
+*Kefir World profile version: 1.2 — 2026-09-08*
 
 [BUL001]: https://doi.org/10.3390/microorganisms9030480
 [BUL002]: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52023XC0405%2802%29
@@ -139,3 +144,4 @@ pH measures hydrogen-ion activity; titratable acidity also reflects milk bufferi
 [BUL010]: https://www.fao.org/4/t4280f/t4280f0d.htm
 [BUL011]: https://doi.org/10.1128/AEM.01122-10
 [GEN001]: https://www.fao.org/fao-who-codexalimentarius/sh-proxy/en/?lnk=1&url=https%3A%2F%2Fworkspace.fao.org%2Fsites%2Fcodex%2FStandards%2FCXS%20243-2003%2FCXS_243e.pdf
+[FF009]: https://freshlyfermented.co.uk/instructions/bulgarian-yoghurt-starter-instructions/

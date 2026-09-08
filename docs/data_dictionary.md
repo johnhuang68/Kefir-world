@@ -47,6 +47,26 @@ All 46 rows reviewed through 2026-09-08 use `literature-backed; claim-specific s
 
 Full author citations, useful sections/tables and alternative full-text links are in each profile. An abstract-only source supports only information actually present in the abstract or inspected excerpts. Publication years are not inferred from the date a web page was crawled.
 
+## Manufacturer process observations
+
+`data/manufacturer_processes.csv` stores instructions for a named commercial starter separately from the core product catalog. One source may have multiple records when activation, routine fermentation, cold fermentation, reculturing or post-fermentation drainage have different conditions.
+
+- `observation_id`: Unique stable observation ID.
+- `product`: Product label used for linking and human review; candidate products may appear here before they qualify for the core catalog.
+- `source_id`: Foreign key into `data/references.csv`.
+- `starter_form`: Form and state of the inoculum, such as fresh grains, freeze-dried grains or previous-batch culture.
+- `stage`: Process stage described by this record.
+- `milk_or_substrate`: Milk, cream or mixture explicitly stated by the source.
+- `batch_volume_ml`: Stated working volume in millilitres; blank when not specified.
+- `inoculum`: Source wording or normalized quantity without inferring viable-cell count.
+- `temp_min_c`, `temp_max_c`: Numeric bounds only when the page supplies them. A single set point is repeated in both fields.
+- `temperature_qualifier`: Context such as `room temperature`, `ideal range` or `refrigerator set point`.
+- `time_min_h`, `time_max_h`: Stated numerical time bounds in hours; blank when the stage is not separately quantified.
+- `time_qualifier`: Endpoint, first-batch exception or total revival period that controls interpretation.
+- `endpoint_aftercare_and_scope`: Observable endpoint, chilling/draining step and evidence limitation.
+
+These observations do not change `temp_min_c`, `temp_max_c` or `typical_time_h` in the core catalog unless independent product-level evidence supports that change. A supplier's product name does not establish organism identity, strain provenance, traditionality, indefinite backslopping stability or a health effect.
+
 ## Important interpretation rules
 
 ### Temperature

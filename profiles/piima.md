@@ -27,14 +27,20 @@ Piimä overlaps microbiologically with Filmjölk and cultured buttermilk, yet Fi
 
 PII001 is a four-page, small study of a Piimä-type culture in Brazil, and its source provenance is not resolved. It supports only its stated process and measurements. A Finnish primary survey connecting household cultures, species, strain codes, EPS and acidification remains a priority gap.
 
+## Freshly Fermented commercial-starter instructions
+
+The supplier activates one sachet of freeze-dried Piimä in **150 mL boiled-and-cooled whole pasteurized milk for 24–72 h at room temperature**. Routine batches are listed as **12–48 h at room temperature**, using about **1 tablespoon of previous Piimä per 500 mL milk** and material younger than seven days. The page does not disclose organisms, strain codes or a certificate connecting the commercial starter to a Finnish lineage, so the figures remain product-specific handling instructions. [FF005]
+
 ## Traceable references
 
 1. **VII010 — Narvhus, J. A., & Abrahamsen, R. K. (2023).** Traditional and modern Nordic fermented milk products: A review. *International Dairy Journal* 142:105641. [DOI: 10.1016/j.idairyj.2023.105641](https://doi.org/10.1016/j.idairyj.2023.105641).
 2. **PII001 — Mattanna, P., Campos, B. E. R., Zielinski, G., Vacelik, B. A., & Saporiti, S. S. M. (2021).** Sensory, Physicochemical and Microbiological Analysis of Fermented Milk Piima. *International Academic Journal of Nutrition & Food Sciences* 2(1):1–4. [DOI: 10.47310/iajnfs.2021.v02i01.008](https://doi.org/10.47310/iajnfs.2021.v02i01.008).
+3. **FF005 — Freshly Fermented (undated; sitemap last modified 2026-06-05).** [Piima Yoghurt Starter Instructions](https://freshlyfermented.co.uk/instructions/piima-yoghurt-starter-instructions/). Commercial product-specific instructions; not peer-reviewed evidence. Page accessed 2026-09-08.
 
 ---
 
-*Kefir World profile version: 1.1 — 2026-09-08*
+*Kefir World profile version: 1.2 — 2026-09-08*
 
 [VII010]: https://doi.org/10.1016/j.idairyj.2023.105641
 [PII001]: https://doi.org/10.47310/iajnfs.2021.v02i01.008
+[FF005]: https://freshlyfermented.co.uk/instructions/piima-yoghurt-starter-instructions/

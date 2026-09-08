@@ -111,6 +111,10 @@ No general freeze-drying survival rate, safe room-temperature holding period, or
 
 Evidence is strongest for named isolates and the specified industrial/Taiwanese starter samples. It is weaker for universal historical recipes, all-household fungal composition and long-term culture preservation. The 2024 study also gives inconsistent histidine-decarboxylase-positive isolate lists between Results and Conclusions; those IDs are not propagated here. [VII004]
 
+## Freshly Fermented commercial-starter instructions
+
+For its freeze-dried Viili starter, Freshly Fermented separates activation from routine propagation: one sachet is activated in **150 mL boiled-and-cooled whole pasteurized milk for 24–72 h at room temperature**. Subsequent batches are described as **12–48 h at room temperature**, with about **1 tablespoon of previous Viili per 500 mL milk** and inoculum younger than seven days. The page describes silky strings as expected, but supplies no organism list, strain certificate or direct EPS measurement. These values therefore apply only to the marketed starter and do not replace the Finnish source-paired process range. [FF004]
+
 ## Traceable references
 
 1. **VII001 — Kahala et al. (2008).** Characterization of starter lactic acid bacteria from the Finnish fermented milk product viili. *Journal of Applied Microbiology* 105:1929–1938. [DOI / primary study](https://doi.org/10.1111/j.1365-2672.2008.03952.x).
@@ -125,6 +129,7 @@ Evidence is strongest for named isolates and the specified industrial/Taiwanese 
 10. **VII010 — Narvhus & Abrahamsen (2023).** Traditional and modern Nordic fermented milk products: A review. *International Dairy Journal* 142:105641. [DOI / academic review, especially section 7.3.2](https://doi.org/10.1016/j.idairyj.2023.105641).
 11. **VII011 — Nakajima et al. (1990).** A Novel Phosphopolysaccharide from Slime-Forming Lactococcus lactis subspecies cremoris SBT 0495. *Journal of Dairy Science* 73:1472–1477. [DOI / primary study](https://doi.org/10.3168/jds.S0022-0302(90)78812-1).
 12. **LAN002 — Neve, Geis & Teuber (1988).** Plasmid-encoded functions of ropy lactic acid streptococcal strains from Scandinavian fermented milk. *Biochimie* 70:437–442. [DOI / primary study](https://doi.org/10.1016/0300-9084(88)90218-0).
+13. **FF004 — Freshly Fermented (undated; sitemap last modified 2026-06-05).** [Viili Yoghurt Starter Instructions](https://freshlyfermented.co.uk/instructions/viili-yoghurt-starter-instructions/). Commercial product-specific instructions; not peer-reviewed evidence. Page accessed 2026-09-08.
 
 ## Data-quality rule
 
@@ -132,7 +137,7 @@ Reported production ranges and isolate phenotypes are not safety guarantees, uni
 
 ---
 
-*Kefir World profile version: 1.0 — 2026-09-06*
+*Kefir World profile version: 1.2 — 2026-09-08*
 
 [LAN002]: https://doi.org/10.1016/0300-9084(88)90218-0
 [VII001]: https://doi.org/10.1111/j.1365-2672.2008.03952.x
@@ -146,3 +151,4 @@ Reported production ranges and isolate phenotypes are not safety guarantees, uni
 [VII009]: https://academicjournals.org/journal/AJB/edition/23_November_2011
 [VII010]: https://doi.org/10.1016/j.idairyj.2023.105641
 [VII011]: https://doi.org/10.3168/jds.S0022-0302(90)78812-1
+[FF004]: https://freshlyfermented.co.uk/instructions/viili-yoghurt-starter-instructions/

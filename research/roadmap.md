@@ -8,6 +8,7 @@
 - [x] Expand the shared registry while preserving the original milk-kefir references.
 - [x] Strengthen Piimä, Tettmelk, Laban, Labneh, Rayeb, Tarag, Katyk and Varenets with claim-scoped primary or authoritative evidence.
 - [x] Add Khoormog, Pendidam and Kindirmou as separately sourced traditional fermented milks.
+- [x] Audit 15 Freshly Fermented instruction pages and store their activation, fermentation and reculturing observations in a separate manufacturer-process table.
 
 All 46 catalog rows now have claim-scoped literature profiles. These are completed first-pass syntheses, not finished experimental accession records. Priority gaps include Långfil and Tettmelk duration, Filmjölk and Finnish Piimä strain provenance, long-term backslopping studies, and matched storage/acidification measurements. Matsoni's later genomic reidentifications and inconsistent published isolate spellings must remain visible in future structured strain tables.
 
@@ -19,6 +20,7 @@ All 46 catalog rows now have claim-scoped literature profiles. These are complet
 - [x] Classify starter ecology and propagation type.
 - [x] Attach at least one reliable reference to every row.
 - [x] Separate household/traditional ranges from industrial process ranges in `fermentation_scope` and profiles.
+- [ ] Evaluate Cultured Buttermilk, Crème Fraîche, Sour Cream and Russian Thickset Yogurt for inclusion using authoritative definitions and product-linked microbiology; supplier instructions alone are insufficient.
 
 ## Phase 2 — Microbiology
 

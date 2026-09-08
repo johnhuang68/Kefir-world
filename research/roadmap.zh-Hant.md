@@ -10,6 +10,7 @@
 - [x] 擴充共用參考文獻登入表，並保留原本的牛奶克菲爾文獻。
 - [x] 以限定主張範圍的原始或權威來源，加強 Piimä、Tettmelk、Laban、Labneh、Rayeb、Tarag、Katyk 與 Varenets。
 - [x] 新增 Khoormog、Pendidam 與 Kindirmou，作為各自有來源支援的傳統發酵乳。
+- [x] 稽核 15 個 Freshly Fermented 操作說明頁，並將其啟用、發酵與回種觀察另存於廠商製程表。
 
 目前 46 筆產品資料都有依主張範圍整理的文獻 profile。這些是已完成的第一輪綜整，尚不是完整的實驗菌株登入紀錄。優先缺口包括：Långfil 與 Tettmelk 的發酵時間、Filmjölk 與芬蘭 Piimä 的菌株來源、長期回種研究，以及成對的儲存／酸化測量。未來的結構化菌株表必須保留 Matsoni 後續的基因組重新鑑定與文獻間不一致的分離株拼法。
 
@@ -21,6 +22,7 @@
 - [x] 分類菌種生態與傳代方式。
 - [x] 每一列至少附上一個可靠來源。
 - [x] 在 `fermentation_scope` 與 profile 中分開記錄家戶／傳統製程與工業製程範圍。
+- [ ] 以權威定義與產品直接相關的微生物學證據，評估 Cultured Buttermilk、Crème Fraîche、Sour Cream 與 Russian Thickset Yogurt 是否納入核心目錄；單一供應商說明不足以支持收錄。
 
 ## 第二階段 — 微生物學
 

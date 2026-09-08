@@ -88,6 +88,20 @@ kefiran 是菌粒基質的一部分，也能影響發酵乳的黏度與黏彈性
 
 引用的綜述列出許多具名分離株，但物種名稱、參考基因組，以及並非取自該菌粒的實驗菌株不能互相替代。因此，本 profile 不宣稱存在一株「通用克菲爾菌株」。未來的菌株紀錄應包含來源菌粒、分離方法、確切名稱，並盡可能附上公開保藏或序列登錄資料。只在發酵乳中檢出某菌，也不能證明健康效益或永久腸道定殖。
 
+## 從供應商頁面追查到的乳脂比較研究
+
+Freshly Fermented 的半脫脂乳文章連到一項原始研究。該研究使用商業冷凍乾燥克菲爾菌種而非菌粒，比較 **0.1% 與 3.1% 脂肪的 UHT 牛乳**。接種量為每 3 L 一包，在 **25 °C 發酵 20 或 26 小時**，再於 **4 °C 儲存最長 24 小時**。26 小時後，低脂與全脂產品的 pH 分別為 4.46 與 4.48。全脂產品的保水性與黏度較高；全脂 26 小時組達到 57.1% 保水性與 21.7 P，低脂 20 小時組則為 28.1% 與 16.0 P。[MK008]
+
+這項 2 × 2 小型實驗採兩次獨立製作、每項測量三次。它只能支援該明確菌種與製程中的乳脂及時間效應，不能代表天然克菲爾菌粒，也不能驗證零售商更廣泛的健康與養菌主張。
+
+## Freshly Fermented 商業操作資料
+
+Freshly Fermented 的新鮮菌粒到貨復甦流程使用約 **250 mL 乳品**，放在最好高於 **18 °C** 的室溫環境，於 **24–48 小時**後檢查。若尚未出現乳清分離，便把菌粒濾出、換入新乳並重複；頁面表示運送後完全適應可能需要一至兩週。日常製作範例使用 **5 g 菌粒／250 mL 乳品**，一般發酵 **18–48 小時**；約 18 °C 時常需約 24 小時。 [FF001]
+
+該供應商的冷凍乾燥菌粒則使用 **250 mL 全脂巴氏殺菌乳**，在 **18–24 °C** 進行每輪最長 **48 小時**的換乳復甦。供應商觀察到的總復甦期為 **2–14 天**，並把能在約 24 小時內穩定發酵視為啟用終點。這些只適用於該產品的復甦操作，不能證明復甦後菌相與新鮮菌粒完全相同。 [FF002]
+
+網站另提供冷藏發酵法：完全活化的菌粒在 **5 °C** 下以約 **15 g／250 mL** 發酵 **2–7 天**，每日攪拌。這是獨立的商業替代製程，不會擴大核心目錄的傳統 20–25 °C 範圍。該頁關於低溫可增加 kefiran、微生物多樣性與健康效益的敘述沒有附可核對來源，因此不採納為科學結論。 [FF003]
+
 ## 可追溯參考資料
 
 1. **MK001 — Leite, A. M. O., et al. (2013).** Microbiological, technological and therapeutic properties of kefir: a natural probiotic beverage. *Brazilian Journal of Microbiology* 44:341–349. [DOI: 10.1590/S1517-83822013000200001](https://doi.org/10.1590/S1517-83822013000200001).
@@ -97,6 +111,10 @@ kefiran 是菌粒基質的一部分，也能影響發酵乳的黏度與黏彈性
 5. **MK005 — Zajšek, K., et al. (2022).** Comparative Analysis of Fermentation Conditions on the Increase of Biomass and Morphology of Milk Kefir Grains. *Applied Sciences* 12:2459. [DOI: 10.3390/app12052459](https://doi.org/10.3390/app12052459).
 6. **MK006 — Alves, E., et al. (2021).** Characterization of Kefir Produced in Household Conditions: Physicochemical and Nutritional Profile, and Storage Stability. *Foods* 10:1057. [DOI: 10.3390/foods10051057](https://doi.org/10.3390/foods10051057). Product-specific CIDCA AGK1 results; not a universal strain list.
 7. **MK007 — Production of Kefir and Kefir-like Beverages: Fundamental Aspects, Advances, and Future Challenges (2026).** *Processes* 14:73. [DOI: 10.3390/pr14010073](https://doi.org/10.3390/pr14010073).
+8. **MK008 — Sıçramaz, H., & Güven, B. E. (2026).** Quality Changes in Kefir: Influence of Fat Content and Fermentation Time. *Food Science Insights* 1(1):1–9。[文章與全文](https://dergipark.org.tr/en/pub/fsi/article/1830757)。小型明確菌種對照研究；不是克菲爾菌粒證據。
+9. **FF001 — Freshly Fermented（未註日期；sitemap 最後修改於 2026-06-01）。** [Milk Kefir Instructions: What To Do When Your Grains Arrive](https://freshlyfermented.co.uk/instructions/milk-kefir-instructions/)。商業產品特定操作說明；非同行評審證據。存取日期：2026-09-08。
+10. **FF002 — Freshly Fermented（未註日期；sitemap 最後修改於 2026-06-01）。** [How To Activate Freeze-Dried Milk Kefir Grains](https://freshlyfermented.co.uk/instructions/dehydrated-milk-kefir-grains-instructions/)。商業產品特定操作說明；復甦主張屬供應商指引。存取日期：2026-09-08。
+11. **FF003 — Freshly Fermented（未註日期；sitemap 最後修改於 2026-05-28）。** [Cold Fermentation of Milk Kefir](https://freshlyfermented.co.uk/instructions/cold-fermentation-of-milk-kefir/)。商業產品特定操作說明；非同行評審證據。存取日期：2026-09-08。
 
 ## Data-quality rule
 
@@ -104,10 +122,14 @@ Ranges in this profile describe reported/traditional production conditions, **no
 
 ---
 
-*Kefir World 繁體中文 profile 版本： 1.1 — 2026-09-07*
+*Kefir World 繁體中文 profile 版本：1.2 — 2026-09-08*
 
 [MK001]: https://doi.org/10.1590/S1517-83822013000200001
 [MK002]: https://doi.org/10.3389/fmicb.2015.01177
 [MK003]: https://doi.org/10.3390/microorganisms8020192
 [MK004]: https://doi.org/10.3390/fermentation8030135
 [MK005]: https://doi.org/10.3390/app12052459
+[MK008]: https://dergipark.org.tr/en/pub/fsi/article/1830757
+[FF001]: https://freshlyfermented.co.uk/instructions/milk-kefir-instructions/
+[FF002]: https://freshlyfermented.co.uk/instructions/dehydrated-milk-kefir-grains-instructions/
+[FF003]: https://freshlyfermented.co.uk/instructions/cold-fermentation-of-milk-kefir/

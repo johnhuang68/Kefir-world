@@ -39,14 +39,20 @@ The sources do not establish one shelf life across raw household, drained and pa
 
 Amasi overlaps with Zambian [Mabisi](mabisi.md), but cultural identity and documented production variants justify separate records. It is not automatically Codex yogurt because the classical yogurt starter pair is not required. Evidence is strong for product-linked yeasts and experimental temperature effects, moderate for general LAB composition, and weak for strain-resolved EPS and multigeneration stability.
 
+## Freshly Fermented commercial-starter instructions
+
+The supplier's freeze-dried Amasi culture is used at **20–25 °C for 24–48 h** in **1 L milk**, with about **1 tablespoon per litre** retained for later batches and used within seven days. This defined commercial workflow differs from the spontaneous or backslopped Southern African household processes summarized above. The page supplies no organism or strain certificate, and its claim of indefinite reculturing is not treated as a measured multigeneration result. [FF008]
+
 ## Traceable references
 
 1. **AMA001 — Gadaga, T. H., Mutukumira, A. N., & Narvhus, J. A. (2000).** Enumeration and identification of yeasts isolated from Zimbabwean traditional fermented milk. *International Dairy Journal* 10:459–466. [DOI: 10.1016/S0958-6946(00)00070-4](https://doi.org/10.1016/S0958-6946(00)00070-4).
 2. **AMA002 — Maleke, M., et al. (2022).** Influence of Fermentation Conditions (Temperature and Time) on the Physicochemical Properties and Bacteria Microbiota of Amasi. *Fermentation* 8:57. [DOI: 10.3390/fermentation8020057](https://doi.org/10.3390/fermentation8020057).
+3. **FF008 — Freshly Fermented (undated; sitemap last modified 2026-06-05).** [Amasi Yoghurt Starter Instructions](https://freshlyfermented.co.uk/instructions/amasi-yoghurt-starter-instructions-2/). Commercial product-specific instructions; not peer-reviewed evidence. Page accessed 2026-09-08.
 
 ---
 
-*Kefir World profile version: 1.0 — 2026-09-07*
+*Kefir World profile version: 1.2 — 2026-09-08*
 
 [AMA001]: https://doi.org/10.1016/S0958-6946(00)00070-4
 [AMA002]: https://doi.org/10.3390/fermentation8020057
+[FF008]: https://freshlyfermented.co.uk/instructions/amasi-yoghurt-starter-instructions-2/

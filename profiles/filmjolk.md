@@ -85,16 +85,22 @@ For future storage records, distinguish temperature, sealed versus opened packag
 
 The process benchmark comes from an academic technical text; the named-species evidence comes from one commercial isolate study. Neither is a representative survey of all Swedish products. Detailed public strain provenance, fungal profiling, refrigerated kinetics and propagation stability remain incomplete. These gaps are retained explicitly rather than filled with supplier guesses or species names presented as strains.
 
+## Freshly Fermented commercial-starter instructions
+
+Freshly Fermented instructs users to add one sachet of its freeze-dried Filmjölk starter to **1 L milk** and ferment at **20–25 °C for 24–48 h**. For later batches it suggests about **1 tablespoon per litre**, using product younger than seven days. This is broader and slower than the academic technical example of about 20 °C for 17–24 h, so both are kept as separate source-specific protocols. No organism or strain certificate is provided. [FF006]
+
 ## Traceable references
 
 1. **FIL001 — Mori, F., Nakamura, T., Nakamura Osawa, A., Arai, I., & Urashima, T. (2000).** Chemical and Immunological Properties of Cell Wall Polysaccharide of Leuconostoc mesenteroides subsp. cremoris Isolated from the Commercial Fermented Milk, “Filmjolk”. *Milk Science* 49:21–28. [DOI: 10.11465/milk.49.21](https://doi.org/10.11465/milk.49.21); [author-institution full text](https://obihiro.repo.nii.ac.jp/record/144/files/chemical.pdf). Primary isolate/chemistry study; Methods distinguishes the organism from CNP fractions.
 2. **LAN003 — Walstra, P., Wouters, J. T. M., & Geurts, T. J. (2006).** *Dairy Science and Technology*, second edition. CRC/Taylor & Francis, section 22.2.1, p. 553. [Academic-library copy](https://repository.ottimmo.ac.id/38/1/Dairy%20Science%20and%20Technology%20%28CRC%202005%29.pdf). Technical process description; copyright 2006 in the inspected edition.
 3. **VII010 — Narvhus, J. A., & Abrahamsen, R. K. (2023).** Traditional and modern Nordic fermented milk products: A review. *International Dairy Journal* 142:105641. [DOI: 10.1016/j.idairyj.2023.105641](https://doi.org/10.1016/j.idairyj.2023.105641). Historical and starter-category context.
+4. **FF006 — Freshly Fermented (undated; sitemap last modified 2026-06-05).** [Filmjölk Yoghurt Starter Instructions](https://freshlyfermented.co.uk/instructions/filmjolk-yoghurt-starter-instructions/). Commercial product-specific instructions; not peer-reviewed evidence. Page accessed 2026-09-08.
 
 ---
 
-*Kefir World profile version: 1.0 — 2026-09-06*
+*Kefir World profile version: 1.2 — 2026-09-08*
 
 [FIL001]: https://doi.org/10.11465/milk.49.21
 [LAN003]: https://repository.ottimmo.ac.id/38/1/Dairy%20Science%20and%20Technology%20%28CRC%202005%29.pdf
 [VII010]: https://doi.org/10.1016/j.idairyj.2023.105641
+[FF006]: https://freshlyfermented.co.uk/instructions/filmjolk-yoghurt-starter-instructions/

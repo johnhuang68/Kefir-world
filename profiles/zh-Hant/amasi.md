@@ -41,14 +41,20 @@
 
 阿瑪西與尚比亞 [Mabisi](mabisi.md) 重疊，但文化認同和記錄的生產變體證明單獨記錄是合理的。它不會自動成為法典酸奶，因為不需要經典的優格菌種對。與產物相關的酵母菌和實驗溫度影響的證據較強，一般 LAB 成分的證據中等，菌株解析的 EPS 和多代穩定性的證據較弱。
 
+## Freshly Fermented 商業菌種操作說明
+
+該供應商的冷凍乾燥 Amasi 菌種以 **1 L 乳品**在 **20–25 °C 發酵 24–48 小時**，後續批次每公升保留約一湯匙七天內的產品作為接種物。這套明確商業菌種製程不同於上文整理的南部非洲自然發酵或家戶回種製程。頁面未提供微生物或菌株證明，「可無限傳代」也不能視為已測量的多代穩定性結果。 [FF008]
+
 ## 可追溯參考資料
 
 1. **AMA001 — Gadaga, T. H., Mutukumira, A. N., & Narvhus, J. A. (2000).** Enumeration and identification of yeasts isolated from Zimbabwean traditional fermented milk. *International Dairy Journal* 10:459–466. [DOI: 10.1016/S0958-6946(00)00070-4](https://doi.org/10.1016/S0958-6946(00)00070-4).
 2. **AMA002 — Maleke, M., et al. (2022).** Influence of Fermentation Conditions (Temperature and Time) on the Physicochemical Properties and Bacteria Microbiota of Amasi. *Fermentation* 8:57. [DOI: 10.3390/fermentation8020057](https://doi.org/10.3390/fermentation8020057).
+3. **FF008 — Freshly Fermented (undated; sitemap last modified 2026-06-05).** [Amasi Yoghurt Starter Instructions](https://freshlyfermented.co.uk/instructions/amasi-yoghurt-starter-instructions-2/)。商業產品特定操作說明；非同行評審證據。存取日期：2026-09-08。
 
 ---
 
-*Kefir World 繁體中文 profile 版本： 1.0 — 2026-09-07*
+*Kefir World 繁體中文 profile 版本：1.2 — 2026-09-08*
 
 [AMA001]: https://doi.org/10.1016/S0958-6946(00)00070-4
 [AMA002]: https://doi.org/10.3390/fermentation8020057
+[FF008]: https://freshlyfermented.co.uk/instructions/amasi-yoghurt-starter-instructions-2/

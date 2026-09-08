@@ -28,9 +28,11 @@ The catalog contains the original 34 rows plus twelve source-backed additions: *
 
 - `data/fermented_milk.csv` — core catalog
 - `data/references.csv` — shared reference registry
+- `data/manufacturer_processes.csv` — source-specific commercial activation, fermentation and reculturing observations
 - `profiles/` — detailed product profiles with claim-level citations
 - `docs/data_dictionary.md` — field definitions and evidence rules
 - `research/roadmap.md` — research backlog and validation plan
+- `research/freshly-fermented-instructions-audit.md` — source audit and integration decisions for the Freshly Fermented instruction library
 
 ## Detailed profiles
 
@@ -52,6 +54,8 @@ The reviewed catalog rows link to their profile and reference IDs. Read `ferment
 
 ## Status
 
-The catalog contains **46 products in 44 profile files**, and all rows have literature-backed status with explicit process scope. The shared registry contains **133 traceable references**. Sources have different strengths: primary experiments, reviews, standards, academic texts and limited manufacturer guidance are labelled accordingly. “Literature-backed” does not mean every aspect is settled or independently replicated.
+The catalog contains **46 products in 44 profile files**, and all rows have literature-backed status with explicit process scope. The shared registry contains **149 traceable references**. Sources have different strengths: primary experiments, reviews, standards, academic texts and limited manufacturer guidance are labelled accordingly. “Literature-backed” does not mean every aspect is settled or independently replicated.
+
+Commercial process observations are kept in a separate table so that starter activation and supplier recipes remain useful without being mistaken for universal traditional methods. The [Freshly Fermented audit](research/freshly-fermented-instructions-audit.md) documents the full sitemap screening, the 15 product pages integrated and the claims that were excluded.
 
 The 2026-09-07 to 2026-09-08 review also corrected several earlier working assumptions. Blank numerical cells now mean no defensible universal value was found; ambient descriptions are not converted into invented temperatures; a blend code is not a strain; and separate processes reported under one name are preserved instead of averaged into a misleading range. Product-name collisions, such as Bulgarian versus Central Asian Katyk, are explicitly scoped.

@@ -28,10 +28,12 @@ Kefir World 是一個以研究證據為基礎的世界發酵乳知識庫，收�
 
 - [`data/fermented_milk.csv`](data/fermented_milk.csv) — 核心產品目錄
 - [`data/references.csv`](data/references.csv) — 共用參考文獻登入表
+- [`data/manufacturer_processes.csv`](data/manufacturer_processes.csv) — 來源特定的商業菌種啟用、發酵與回種觀察
 - [`profiles/zh-Hant/`](profiles/zh-Hant/) — 44 份繁體中文產品 profile 與索引
 - [`profiles/`](profiles/) — 英文產品 profile
 - [`docs/data_dictionary.zh-Hant.md`](docs/data_dictionary.zh-Hant.md) — 中文欄位定義與證據規則
 - [`research/roadmap.zh-Hant.md`](research/roadmap.zh-Hant.md) — 中文研究路線圖與驗證計畫
+- [`research/freshly-fermented-instructions-audit.zh-Hant.md`](research/freshly-fermented-instructions-audit.zh-Hant.md) — Freshly Fermented 操作說明庫的來源稽核與整合決策
 
 ## 詳細產品資料
 
@@ -59,6 +61,8 @@ Kefir World 是一個以研究證據為基礎的世界發酵乳知識庫，收�
 
 ## 目前狀態
 
-目錄共有 **46 種產品、44 份 profile 與 133 筆可追溯參考文獻**。所有資料列均已有文獻支援狀態與明確的製程範圍；但「有文獻支援」不代表每一項特徵都已有一致結論或獨立重複驗證。
+目錄共有 **46 種產品、44 份 profile 與 149 筆可追溯參考文獻**。所有資料列均已有文獻支援狀態與明確的製程範圍；但「有文獻支援」不代表每一項特徵都已有一致結論或獨立重複驗證。
+
+商業製程觀察另存於獨立資料表，使菌種啟用與供應商配方可以被查詢，又不會被誤認為通用傳統製法。[Freshly Fermented 稽核頁](research/freshly-fermented-instructions-audit.zh-Hant.md)記錄完整 sitemap 篩選、15 個已整合的產品頁面與未採納的主張。
 
 2026-09-07 至 2026-09-08 的審查也修正了早期草稿中的部分假設：空白數值表示找不到可辯護的通用值；不能把「環境溫度」換算成自行推測的數字；混合菌種程式碼不是菌株；同名產品下的不同製程應分別儲存，不應平均成誤導性的區間。
